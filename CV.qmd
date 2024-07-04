@@ -3,8 +3,74 @@ title: "Mack White Curriculum Vitae"
 editor: visual
 ---
 
-|                 |                                  |                 |                  |
-|:-----------:|:--------------------------------:|:-----------:|:-----------:|
++:---------------:+:--------------------------------:+:---------------:+:----------------:+
 | Ph.D. Candidate | Florida International University | mwhite\@fiu.edu | \(304\) 482-9142 |
++-----------------+----------------------------------+-----------------+------------------+
 
 ### Education
+
++--------------------------------------------------------------------------------------+--------:+
+| Florida International University - Ph.D., Earth Systems Science (**4.0 GPA**)        | Present |
++--------------------------------------------------------------------------------------+---------+
+| Tennessee Technological University - M.S., Biology (**4.0 GPA**)                     | 2021    |
++--------------------------------------------------------------------------------------+---------+
+| Marshall University -  B.S., Environmental Science (**3.43 GPA**)                    | 2017    |
++--------------------------------------------------------------------------------------+---------+
+
+### Employment
+
++-------------------------------------------------------------------------------------------------------------------+--------------+
+| **Graduate Research Assistant** - Florida International University, *Miami, FL* (Advisor: Dr. Jennifer Rehage)    | 2021-Present |
++-------------------------------------------------------------------------------------------------------------------+--------------+
+| **Graduate Teaching Assistant** - Tennessee Technological University, *Cookeville, TN* (Advisor: Dr. Kit Wheeler) | 2019-2021    |
++-------------------------------------------------------------------------------------------------------------------+--------------+
+| **Contractual Biologist** - Ohio River Valley Water Sanitation Commission (ORSANCO), *Cincinnati, OH*             | 2018         |
++-------------------------------------------------------------------------------------------------------------------+--------------+
+| **Watershed Restoration Technician –** Trout Unlimited & United States Forest Service (USFS), *Bartow, WV*        | 2017         |
++-------------------------------------------------------------------------------------------------------------------+--------------+
+
+### Publications
+
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **White M**, NP Lemoine, JE Allgeier… (17 additional authors; **in prep**) Species richness and functional diversity stabilizes consumer-driven nutrient cycling via asynchronous communities. *targeting Nature Ecology & Evolution.*                   |
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Santos RO, **M White,** WR James, NM Viadero, JA Massie, RE Boucek, and JS Rehage (**in review).** Cause and consequences of individual variability in space use in subtropical riverscapes. *Scientific Reports*.                                       |
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Sturges J, WR James, R Rezek, RO Santos, **M White**, G Badlowski, S Trabelsi, JA Massie, J Nelson, J Trexler, and JS Rehage (**in review**). Seasonality drives green and brown energy pathways in food webs across an ecosystem gradient. *Ecosphere*. |
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Hudson RR, K Wheeler, **M White**, and JN Murdock (**2024**). Migratory redhorse suckers provide subsidies of nitrogen but not phosphorus to a spawning stream. *Ecology of Freshwater Fish.*                                                            |
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **White M,** K Wheeler, RR Hudson, and JN Murdock (**2023**). Salmon of the Southeastern U.S.: Sucker migrations deliver resource subsidies to oligotrophic stream. *Ecology of Freshwater Fish.*                                                        |
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Hanscom, R. J., **M. White**, C. Cranwell, and M. Grisnik (**2023**). *Regina Septemvittata* (Queen Snake). Geographic distribution. *Herpetological Review*.                                                                                            |
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **White M** (**2021**). Nutrient contributions from and early life history variability of an adfluvial sucker in an oligotrophic southeastern stream. M.S. Thesis. Available from *ProQuest*.                                                            |
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+### Funding (\$87,050 total funding)
+
++----------------------------------------------------------------------------------------------------------------+-----:+
+| Supplemental Research Grant; Funded by NSF CREST Center for Aquatic Chemistry & Env. **(\$4,550**)             | 2023 |
++----------------------------------------------------------------------------------------------------------------+------+
+| Student Travel Grant; Funded by Florida Chapter of American Fisheries Society (**\$300**)                      | 2023 |
++----------------------------------------------------------------------------------------------------------------+------+
+| NSF Long-Term Ecological Research Synthesis Grant – Principal Investigator; Funded by US-LTER **(\$55,000**)   | 2022 |
++----------------------------------------------------------------------------------------------------------------+------+
+| Student Travel Grant; Funded by US-LTER **(\$1,000**)                                                          | 2022 |
++----------------------------------------------------------------------------------------------------------------+------+
+| FIU ForEverglades Scholarship – Principal Investigator; Funded by Everglades Foundation **(\$25,000**)         | 2022 |
++----------------------------------------------------------------------------------------------------------------+------+
+| Student Travel Grant; Funded by Florida Chapter of American Fisheries Society (**\$300**)                      | 2022 |
++----------------------------------------------------------------------------------------------------------------+------+
+| Colin Cone Writing Scholarship; Funded by Florida Outdoor Writers Association **(\$1,000**)                    | 2021 |
++----------------------------------------------------------------------------------------------------------------+------+
+
+#### ***Proposals pending or not selected for funding***
+
++----------------------------------------------------------------------------------------+-----:+
+| Florida Forage Fish Research Fellowship; FFFC & FWRI **(\$15,000**)                    | 2024 |
++----------------------------------------------------------------------------------------+------+
+| Ford Foundation Predoctoral Fellowship; Ford Foundation **(\$30,000**)                 | 2022 |
++----------------------------------------------------------------------------------------+------+
+| Conservation Research Grant; North American Native Fishes Association (**\$1,000**)    | 2020 |
++----------------------------------------------------------------------------------------+------+
