@@ -1,9 +1,9 @@
 ---
-title: "Mack White, Ph.D. Candidate: Florida International University"
+title: "Mack White"
 editor: visual
 ---
 
-Hello! My name is Mack White and I am currently a third-year Ph.D. candidate working with Dr. Jennifer Rehage in the Department of Earth & Environment at Florida International University in Miami, FL.
+I am an ecologist interested in the drivers of ecosystems across various scales (from individuals to ecosystems). My research currently revolves around further understanding the contextual roles of consumers in the cycling of nutrients and flow of energy within and across ecosystems. By combining field, experimental, and modeling techniques, I aim to bridge theories across different ecological disciplines to provide novel insights. The goal of my research is to provide a more holistic understanding of the natural world that informs conservation and management efforts. I am currently a Ph.D. candidate working with Dr. Jennifer Rehage in the Coastal Fish Ecology & Fisheries Research lab at Florida International University.
 
 ### My background
 
@@ -15,4 +15,4 @@ Soon after graduating from Marshall in December 2017, I accepted a position as a
 
 I accepted an M.S. position with Dr. Kit Wheeler at Tennessee Tech University (TTU) to further my ability to develop hypothesis-driven questions and refine my research interests in January 2019. My thesis research quantified the amount of nitrogen and phosphorus delivered by sucker fish via excretion, eggs, and carcasses during their annual spawning migrations. My time at TTU was extremely rewarding. My advisor was hugely supportive and fostered an environment in which I was able to pursue my own research questions related to my thesis. I also discovered my love for teaching, as I taught biology and ecology courses for five semesters. Conveying my passion for science to excited students was very fulfilling and solidified my desire to pursue a career in academia with research and teaching duties.
 
-I accepted a Ph.D. position with Dr. Jennifer Rehage in the Coastal Fish Ecology & Fisheries Lab at FIU to continue developing my abilities as a research scientist in August 2021 (how the time flies..). Across the last few years, I have spent my time working in Everglades National Park on a number of different projects related animal movement and food web ecology,
+I accepted a Ph.D. position with Dr. Jennifer Rehage in the Coastal Fish Ecology & Fisheries Lab at FIU to continue developing my abilities as a research scientist in August 2021 (how the time flies..). Across the last few years, I have spent my time working in Everglades National Park (ENP). I am currently leading projects focused on maintaining and evolving time-series datasets of animal movement for several taxa (i.e., Common Snook, Largemouth Bass, Bull Shark) using acoustic telemetry and monthly fish community monitoring (associated with the Comprehensive Everglades Restoration Plan) in the Shark River, ENP. This work, plus our food web monitoring project (2019-Present) that I work closely with, is associated with the Florida Coastal Everglades Long-Term Research (FCE-LTER) program. Additionally, I am fortunate to currently be leading a synthesis working group funded by the US-LTER which aims to characterize spatiotemporal patterns in consumer-driven nutrient dynamics (CND) in the wake of climate change across long-term research programs globally. These programs span from pelagic environments in the Gulf of Alaska to coral reefs in French Polynesia.
