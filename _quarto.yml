@@ -8,7 +8,6 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - Bio.qmd
       - Projects.qmd
       - News.qmd
       - CV.qmd
