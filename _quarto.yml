@@ -9,9 +9,9 @@ website:
       - href: index.qmd
         text: Home
       - Projects.qmd
-      - News.qmd
+      - Research.qmd
       - CV.qmd
-      - Publications.qmd
+      - News.qmd
 
 format:
   html:
