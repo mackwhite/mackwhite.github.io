@@ -1,5 +1,5 @@
 ---
-title: "Mack White Curriculum Vitae"
+title: "CV"
 editor: visual
 ---
 
