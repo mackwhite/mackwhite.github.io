@@ -11,6 +11,7 @@ website:
       - Projects.qmd
       - Research.qmd
       - CV.qmd
+      - Pics.qmd
 
 format:
   html:
