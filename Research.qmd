@@ -2,7 +2,7 @@
 title: "Research"
 ---
 
-The bulk of my research has taken place in aquatic ecosystems {{< fa ship >}}. However, I did spend several summers working with reptiles and amphibians in the beautiful hardwood forests and open oak savannas {{< fa tree >}} of Tennessee. Ultimately, I consider myself an ecosystem ecologist {{< fa earth >}} interested in untangling the threads linking pattern to process behind the "black box" of ecosystems, regardless of the system.
+The bulk of my research has taken place in aquatic ecosystems working with fish {{< fa ship >}}. However, I did spend several summers working with reptiles and amphibians in the beautiful hardwood forests and open oak savannas {{< fa tree >}} of Tennessee. Ultimately, I consider myself an ecosystem ecologist {{< fa earth >}} interested in untangling the threads linking pattern to process behind the "black box" of ecosystems, regardless of the system.
 
 "Research is formalized curiosity. It is poking and prying with a purpose." *- Zora Neale Hurston*
 
