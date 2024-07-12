@@ -18,9 +18,9 @@ The bulk of my research has taken place in aquatic ecosystems working with fish 
 
 **Related publications**
 
-Hudson RR, K Wheeler, **M White**, and JN Murdock (**2024**). Migratory redhorse suckers provide subsidies of nitrogen but not phosphorus to a spawning stream. *Ecology of Freshwater Fish* [https://doi.org/10.1111/eff.12758](https://doi.org/10.1111/eff.12758)
+Hudson RR, K Wheeler, **M White**, and JN Murdock (**2024**). Migratory redhorse suckers provide subsidies of nitrogen but not phosphorus to a spawning stream. *Ecology of Freshwater Fish* <https://doi.org/10.1111/eff.12758>
 
-**White M,** K Wheeler, RR Hudson, and JN Murdock (**2023**). Salmon of the Southeastern U.S.: Sucker migrations deliver resource subsidies to oligotrophic stream. *Ecology of Freshwater Fish* [https://doi.org/10.1111/eff.12676](https://doi.org/10.1111/eff.12676)
+**White M,** K Wheeler, RR Hudson, and JN Murdock (**2023**). Salmon of the Southeastern U.S.: Sucker migrations deliver resource subsidies to oligotrophic stream. *Ecology of Freshwater Fish* <https://doi.org/10.1111/eff.12676>
 
 **White M** (**2021**). Nutrient contributions from and early life history variability of an adfluvial sucker in an oligotrophic southeastern stream. M.S. Thesis. Available from [*ProQuest*](https://www.proquest.com/openview/207bfc4ac4c81a004082056d0ad0b32b/1?pq-origsite=gscholar&cbl=18750&diss=y)
 
@@ -47,3 +47,11 @@ Sturges J, WR James, R Rezek, RO Santos, **M White**, G Badlowski, S Trabelsi, J
 **Related publications**
 
 Strebler M, M Grisnik, **M White**, and RJ Hanscom (**accepted; in review**). Herpetofauna of Catoosa wildlife management area and species-area relationships of reptiles and amphibians across Tennessee. *Herpetological Conservation & Biology*
+
+## Research Funding
+
+<p align="center">
+
+![Thanks to all of those who have supported me and my research!](images/funders.png){width="100%"}
+
+</p>
