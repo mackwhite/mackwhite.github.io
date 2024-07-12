@@ -25,7 +25,7 @@ My name is Mack White *(he/him)* and I am an ecologist interested in the drivers
 
 ## Skills & Interests
 
-{{< fa fish >}} Ecology -- {{< fa screwdriver-wrench >}} Coding -- {{< fa person-chalkboard >}} Teaching -- {{< fa tent >}} Camping -- {{< fa tree >}} Hiking -- {{< fa football >}} Sports
+{{< fa fish >}} Ecology  {{< fa screwdriver-wrench >}} Coding  {{< fa person-chalkboard >}} Teaching  {{< fa tent >}} Camping  {{< fa tree >}} Hiking  {{< fa football >}} Sports
 :::
 
 ### **Scientific Background**
