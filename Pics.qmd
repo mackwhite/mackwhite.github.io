@@ -1,6 +1,13 @@
 ---
-title: "Fishy Field Work Pics"
-editor: visual
+title: "From the field: Fieldwork through the years"
 ---
 
-### Coming Soon!
+Here I share some of my favorite pictures {{< fa camera >}} from field work at various stages in my career. ***Coming Soon!***
+
+### The USFS & Trout Unlimited Year(s)
+
+### The ORSANCO Year(s)
+
+### The Tennessee Tech Year(s)
+
+### The Florida International Years(s)
