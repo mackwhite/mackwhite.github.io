@@ -14,7 +14,7 @@ The bulk of my research has taken place in aquatic ecosystems working with fish 
 
 # Functional roles of animals
 
-#### **Animals responding to and interacting with their environment can result in the transport/modulation of nutrients and energy available for production, decomposition, and other important ecosystem processes**
+#### **Animals responding to and interacting with the different environments they inhabit can result in the transport/modulation of nutrients and energy available for production, decomposition, and other important ecosystem processes**
 
 **Related publications**
 
@@ -26,7 +26,7 @@ Hudson RR, K Wheeler, **M White**, and JN Murdock (**2024**). Migratory redhorse
 
 # Ecological drivers and consequences of animal movement
 
-#### **Movement is a fundamental part of life, influencing the fitness of individuals with cascading effects at multiple scales of organization and can important consequences for diversity and evolution**
+#### **Movement is a fundamental part of life, mediating the fitness of individuals with cascading effects at multiple scales of organization with implications for biodiversity and evolution**
 
 **Related publications**
 
@@ -42,7 +42,7 @@ Sturges J, WR James, R Rezek, RO Santos, **M White**, G Badlowski, S Trabelsi, J
 
 # Spatiotemporal changes in animal communities
 
-#### **Spatiotemporal dynamics of animal communities can be related to underlying changes in socio-ecological landscapes, providing important insights for the conservation of biodiversity, resilience, and system function**
+#### **The dynamics of animal communities can be related to underlying changes in socio-ecological landscapes, providing important insights for the conservation of biodiversity, resilience, and system function**
 
 **Related publications**
 
