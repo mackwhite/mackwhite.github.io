@@ -15,7 +15,7 @@ website:
         href: Research.qmd
       - text: "CV"
         href: CV.qmd
-      - text: "Field Work Memories"
+      - text: "From the Field"
         href: Pics.qmd
     right: 
       - icon: github
