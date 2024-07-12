@@ -24,13 +24,13 @@ $font-size: 25px;
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
 
 // Base document colors
-$navbar-bg: $green-2; // navbar
+$navbar-bg: $green-1; // navbar
 $navbar-fg: $blue-4; // navbar foreground elements
 $navbar-hl: $blue-3; // highlight color when on a page
 $body-bg: $cream; // page background
-$body-color: $black; // page text
-$footer-bg: $blue-2; // footer
-$link-color: $blue-2; // hyperlinks
+$body-color: $blue-4; // page text
+$footer-bg: $green-3; // footer
+$link-color: $green-4; // hyperlinks
 
 // Inline code
 $code-bg: $gray-0; // inline code background color
