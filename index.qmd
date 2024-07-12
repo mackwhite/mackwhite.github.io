@@ -15,7 +15,7 @@ about:
     - href: https://x.com/mackwhite_eco
       text: X
       icon: twitter
-    - href: mailto:mackfisheco1994@gmail.com
+    - href: mailto:mwhite@fiu.edu
       text: Email
       icon: envelope-fill
 ---
