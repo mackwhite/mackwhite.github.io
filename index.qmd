@@ -2,7 +2,7 @@
 about:
   id: header
   template: trestles
-  image: images/front_facing_pic.jpg
+  image: images/new_headshot.jpg
   image-width: 10cm
   image-shape: round
   links:
@@ -23,7 +23,7 @@ about:
 ::: {#header}
 ## Research Statement
 
-My name is Mack White *(he/him)* and I am an ecologist interested in the drivers of ecosystems across various scales (from individuals to ecosystems). My research currently revolves around further understanding the contextual roles of consumers in the cycling of nutrients and flow of energy within and across ecosystems. By combining field, experimental, and modeling techniques, I aim to bridge theories across different ecological disciplines to provide novel insights. The goal of my research is to provide a more holistic understanding of the natural world that informs conservation and management efforts.
+My name is Mack White *(he/him)* and I am an ecologist interested in the drivers of ecosystems across various scales (from elements to ecosystems). My research currently revolves around further understanding the contextual roles of animals in the cycling of nutrients and flow of energy within and across ecosystems. By combining field, experimental, and modeling techniques, I aim to bridge theories across different ecological disciplines to provide novel insights. The goal of my research is to provide a more holistic understanding of the natural world that informs conservation and management efforts.
 
 ## Skills & Interests
 
