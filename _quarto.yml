@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Mack White"
+  favicon: images/fishy_logo.jpg
   navbar:
     left:
       - href: index.qmd
