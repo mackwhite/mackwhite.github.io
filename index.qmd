@@ -12,10 +12,10 @@ about:
     - href: https://scholar.google.com/citations?user=hLHcmSYAAAAJ&hl=en&oi=sra
       text: Google Scholar
       icon: archive-fill
-    - href: https://www.linkedin.com/in/nicholasjlyon
+    - href: https://x.com/mackwhite_eco
       text: X
       icon: twitter
-    - href: mailto:mwhite@fiu.edu
+    - href: mailto:mackfisheco1994@gmail.com
       text: Email
       icon: envelope-fill
 ---
