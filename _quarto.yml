@@ -1,24 +1,41 @@
 project:
   type: website
+  # execute-dir: project
   output-dir: docs
 
 website:
   title: "Mack White"
   favicon: images/fishy_logo.jpg
   navbar:
+    background: primary
     left:
-      - href: index.qmd
-        text: Home
-      - Projects.qmd
-      - Research.qmd
-      - CV.qmd
-      - Pics.qmd
-
+      - text: "Home"
+        href: index.qmd
+      - text: "Research"
+        href: Research.qmd
+      - text: "CV"
+        href: CV.qmd
+      - text: "Field Work Memories"
+        href: Pics.qmd
+    right: 
+      - icon: github
+        href: https://github.com/mackwhite
+      - text: Google Scholar
+        href: https://scholar.google.com/citations?user=hLHcmSYAAAAJ&hl=en&oi=sra
+    page-footer: 
+      # center:
+      background: secondary
+      
 format:
   html:
-    theme: sandstone
-    css: styles.css
+    theme: 
+      light: macklight.scss
+      dark: mackdark.scss
+    mainfont: Open Sans
+    # css: styles.css
     toc: true
+    link-external-newwindow: true
+    link-external-icon: false
 
-editor: visual
+# editor: visual
 

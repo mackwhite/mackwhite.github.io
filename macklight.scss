@@ -1,0 +1,40 @@
+/*-- scss:defaults --*/
+
+// Colors
+/* source: https://coolors.co/palettes/trending */
+$blue-4: #004e64;
+$blue-3: #427aa1;
+$blue-2: #62b6cb;
+$blue-1: #bee9e8;
+$green-4: #344e41;
+$green-3: #3a5a40;
+$green-2: #588157;
+$green-1: #a3b18a;
+
+$cream: #F4F3EE;
+$gray-0: #d6d6d6;
+$gray-1: #BCB8B1;
+$gray-2: #8A817C;
+$gray-3: #222823;
+$gray-4: #191919;
+$black: #08090A;
+
+// Fonts
+$font-size: 25px;
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+// Base document colors
+$navbar-bg: $green-2; // navbar
+$navbar-fg: $blue-4; // navbar foreground elements
+$navbar-hl: $blue-3; // highlight color when on a page
+$body-bg: $cream; // page background
+$body-color: $black; // page text
+$footer-bg: $blue-2; // footer
+$link-color: $blue-2; // hyperlinks
+
+// Inline code
+$code-bg: $gray-0; // inline code background color
+$code-color: $blue-3; // inline code text color
+
+// Code blocks
+$code-block-bg: $blue-2; // code block background color

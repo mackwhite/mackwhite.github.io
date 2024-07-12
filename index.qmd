@@ -1,13 +1,30 @@
 ---
-title: "Mack White"
-editor: visual
+about:
+  id: header
+  template: trestles
+  image: images/front_facing_pic.jpg
+  image-width: 10cm
+  image-shape: round
+  links:
+    - href: https://github.com/mackwhite
+      text: GitHub
+      icon: github
+    - href: https://scholar.google.com/citations?user=hLHcmSYAAAAJ&hl=en&oi=sra
+      text: Google Scholar
+      icon: archive-fill
+    - href: https://www.linkedin.com/in/nicholasjlyon
+      text: X
+      icon: twitter
+    - href: mailto:mwhite@fiu.edu
+      text: Email
+      icon: envelope-fill
 ---
 
-![](new_headshot.jpg)
+:::{#header}
 
-### Research Statement
+## Research Statement
 
-I am an ecologist interested in the drivers of ecosystems across various scales (from individuals to ecosystems). My research currently revolves around further understanding the contextual roles of consumers in the cycling of nutrients and flow of energy within and across ecosystems. By combining field, experimental, and modeling techniques, I aim to bridge theories across different ecological disciplines to provide novel insights. The goal of my research is to provide a more holistic understanding of the natural world that informs conservation and management efforts. I am currently a Ph.D. candidate working with Dr. Jennifer Rehage in the Coastal Fish Ecology & Fisheries Research lab at Florida International University.
+My name is Mack White _(he / him)_ and I am an ecologist interested in the drivers of ecosystems across various scales (from individuals to ecosystems). My research currently revolves around further understanding the contextual roles of consumers in the cycling of nutrients and flow of energy within and across ecosystems. By combining field, experimental, and modeling techniques, I aim to bridge theories across different ecological disciplines to provide novel insights. The goal of my research is to provide a more holistic understanding of the natural world that informs conservation and management efforts. I am currently a Ph.D. candidate working with Dr. Jennifer Rehage in the [Coastal Fish Ecology & Fisheries Research lab]() at Florida International University.
 
 ### Scientific Background
 
