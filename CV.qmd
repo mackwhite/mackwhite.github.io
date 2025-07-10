@@ -112,7 +112,7 @@ editor: visual
 ### University & Professional Service
 
 |  |  |
-|------------------------------------|-----------------------------------:|
+|-----------------------------------------------------------------|-----------------------------------:|
 | Gear Loan & Deployment Committee, *Ocean Tracking Network* | 2024-Present |
 | Aquatic Technical Working Group Committee, *National Ecological Observatory Network* | 2023-Present |
 | Broadening Inclusion Committee, *Florida Coastal Everglades LTER* | 2022-Present |
@@ -128,7 +128,7 @@ editor: visual
 ### Selected Presentations
 
 |  |  |
-|------------------------------------|------------------------------------|
+|----------------------------------------------------|-----------------------------------:|
 | Causes and consequences of Common Snook (*Centropomus undecimalis*) space use specialization; *Florida American Fisheries Society annual meeting – oral presentation* | 2025 |
 | Balancing the budget: metabolic drivers modulate the foraging and activity of a coastal mesopredator; *Florida American Fisheries Society annual meeting – poster presentation* | 2025 |
 | Synthesis Working Group Updates; *Florida Coastal Everglades LTER All-Scientist meeting – oral presentation* | 2025 |
