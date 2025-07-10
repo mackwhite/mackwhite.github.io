@@ -21,7 +21,7 @@ about:
 ---
 
 ::: {#header}
-My name is Mack White (*he/him*) and I am a PhD candidate at Florida International University. Though I am primarily interested in understanding the functional roles of consumers (e.g., nutrient supply, trophic coupling), I really just enjoy learning more about ecology. My personal research asks questions across levels of ecological organization – *from individuals to ecosystems* – in hopes of providing a more holistic understanding of the natural world that informs conservation and management efforts, as well as theory. 
+My name is Mack White (*he/him*) and I am a PhD candidate at Florida International University. I am primarily interested in understanding the drivers and consequences of animal behavior, and what that means for ecosystem function. However, I truly enjoy thinking about any interesting ecological question. My personal research asks questions across levels of ecological organization – *from individuals to ecosystems* – in hopes of providing a more holistic understanding of the natural world that informs conservation and management efforts, as well as theory.
 
 ## Skills & Interests
 
