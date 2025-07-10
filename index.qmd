@@ -21,7 +21,7 @@ about:
 ---
 
 ::: {#header}
-My name is Mack White *(he/him)* and I am a PhD candidate at Florida International University. I am an interdisciplinary ecologist interested in understanding how global change drivers alter the roles of consumers in ecosystem function. My research asks questions across levels of ecological organization – from individuals to ecosystems – to provide a more holistic understanding of the natural world that informs conservation and management efforts, as well as ecological theory. 
+My name is Mack White (*he/him*) and I am a PhD candidate at Florida International University. Though I am primarily interested in understanding the functional roles of consumers (e.g., nutrient supply, trophic coupling), I really just enjoy learning more about ecology. My personal research asks questions across levels of ecological organization – *from individuals to ecosystems* – in hopes of providing a more holistic understanding of the natural world that informs conservation and management efforts, as well as theory. 
 
 ## Skills & Interests
 
