@@ -2,7 +2,7 @@
 about:
   id: header
   template: trestles
-  image: images/new_headshot.jpg
+  image: images/pics/ttu/fish-viewer-headshot.jpg
   image-width: 10cm
   image-shape: round
   links:
@@ -12,16 +12,16 @@ about:
     - href: https://scholar.google.com/citations?user=hLHcmSYAAAAJ&hl=en&oi=sra
       text: Google Scholar
       icon: archive-fill
-    - href: https://x.com/mackwhite_eco
-      text: X
-      icon: twitter
     - href: mailto:mwhite@fiu.edu
       text: Email
       icon: envelope-fill
+    - href: https://bsky.app/profile/mackeco.bsky.social
+      text: Bluesky
+      icon: bluesky
 ---
 
 ::: {#header}
-My name is Mack White (*he/him*) and I am a PhD candidate at Florida International University. I am primarily interested in understanding the drivers and consequences of animal behavior, and what that means for ecosystem function. However, I truly enjoy thinking about any interesting ecological question. My personal research asks questions across levels of ecological organization – *from individuals to ecosystems* – in hopes of providing a more holistic understanding of the natural world that informs conservation and management efforts, as well as theory.
+My name is Mack White (*he/him*) and I am a PhD candidate at Florida International University. I spend most of my time thinking about animal behavior (drivers and function). However, I truly enjoy thinking about any interesting ecological question. My research asks questions across levels of ecological organization – *from individuals to ecosystems* – in hopes of providing a more holistic understanding of the natural world that informs management, as well as theory.
 
 ## Skills & Interests
 

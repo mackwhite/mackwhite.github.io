@@ -6,13 +6,13 @@ editor: visual
 ##### *last updated 07/10/2025 - email mackwhiteecology\@gmail.com for updated/detailed copy of CV*
 
 |  |  |  |  |
-|:----------------:|:----------------:|:----------------:|:----------------:|
+|:--:|:--:|:--:|:--:|
 | Ph.D. Candidate | Florida International University | mwhite\@fiu.edu | \(304\) 482-9142 |
 
 ### Education
 
 |  |  |
-|------------------------------------|-----------------------------------:|
+|----|---:|
 | Florida International University - Ph.D., Earth Systems Science (**4.0 GPA**) | 2021-Present |
 | Tennessee Technological University - M.S., Biology (**4.0 GPA**) | 2019-2021 |
 | Marshall University -  B.S., Environmental Science (**3.43 GPA**) | 2013-2017 |
@@ -20,7 +20,7 @@ editor: visual
 ### Relevant Employment
 
 |  |  |
-|------------------------------------|-----------------------------------:|
+|----|---:|
 | **Graduate Research Assistant** - Florida International University, *Miami, FL* (Advisor: Dr. Jennifer Rehage) | 2021-Present |
 | **Graduate Teaching Assistant** - Tennessee Technological University, *Cookeville, TN* (Advisor: Dr. Kit Wheeler) | 2019-2021 |
 | **Contractual Biologist** - Ohio River Valley Water Sanitation Commission (ORSANCO), *Cincinnati, OH* | 2018 |
@@ -31,7 +31,7 @@ editor: visual
 ##### [In press or published]{.underline}
 
 |  |
-|------------------------------------------------------------------------|
+|----|
 | Strebler, Marissa, Matthew Grisnik, **`Mack White`**, and Ryan J. Hanscom (2025). “Herpetofauna of Catoosa Wildlife Management Area and species-area relationships of reptiles and amphibians across Tennessee. *Herpetological Conservation and Biology* |
 | Santos, Rolando O., **`Mack White`**, W. Ryan James, Natasha M. Viadero, Jordan A. Massie, Ross E. Boucek, and Jennifer S. Rehage (2025). “Cause and consequences of Common Snook (*Centropomus undecimalis*) space use specialization in a subtropical riverscape.” *Scientific Reports* 15 (1): 1–15 |
 | Hudson, Ryan R., Kit Wheeler, **`Mack White`**, and Justin N. Murdock (2024). “Migratory redhorse suckers provide subsidies of nitrogen but not phosphorus to a spawning stream.” *Ecology of Freshwater Fish* 33 (2): e12758 |
@@ -41,7 +41,7 @@ editor: visual
 ##### [In review]{.underline}
 
 |  |
-|------------------------------------------------------------------------|
+|----|
 | Jonathan R. Rodemann, **`Mack White`**, W. Ryan James, Rolando O. Santos, Lucas P. Griffin, Sophia V. Costa, Bradley T. Furman, Simon J. Pittman, Danial Gann, Jennifer S. Rehage (In review). Hierarchical habitat selection by a predatory fish in a patchy seascape. *Scientific Reports.* |
 | **`White,Mack`**, W. Ryan James, Justin S. Lesser, Ryan J. Rezek, Jonathan R. Rodemann, Ross E. Boucek, Rolando O. Santos, Jennifer S. Rehage (In review). Linking hydrology, temperature, and energetics: global change implications for the foraging ecology of a generalist predator. *Marine and Coastal Fisheries*. |
 | Goldner, Victoria S., **`Mack White`**, Cody W. Eggenberger, Alia Jones, Cameron Atkinson, Jonathan R. Rodemann, W. Ryan James, Andrea M. Kroetz, Patrick M. O’Donnell, Ross E. Boucek, Rolando O. Santos, Jennifer S. Rehage (In review). Gone but not forgotten: Collaborative telemetry network provides insight into out-of-system movements of Common Snook (*Centropomus undecimalis*). *Marine and Coastal Fisheries*. |
@@ -50,7 +50,7 @@ editor: visual
 ##### [In prep]{.underline}
 
 |  |
-|------------------------------------------------------------------------|
+|----|
 | **`White,Mack`**, Jonathan R. Rodemann, W. Ryan James, Cameron C. Atkinson, James W. Sturges, Jennifer S. Rehage (In prep). Environmental conditions interact with time of day to reshape the crepuscular activity pattern of an ectothermic mesopredator. |
 | **`White,Mack`**, Nate P. Lemoine, W. Ryan James, Jake E. Allgeier, Deron E. Burkepile, Jennifer S. Rehage, Max C.N. Castorani, and… (13 additional authors; In prep). Taxonomic richness and population asynchrony drives temporal stability of consumer-mediated nutrient dynamics across diverse marine ecosystems. |
 | James, W. Ryan, Jonathan R. Rodemann, **`Mack White`**, Gina A. Badlowski, Valentina Bautista, Nicholas A. Castillo, Sophia V. Costa, and… (9 additional authors; In prep). Trophic niche packing varies seasonally in a coastal seagrass food web. |
@@ -59,13 +59,13 @@ editor: visual
 ##### [Datasets published]{.underline}
 
 |  |
-|------------------------------------------------------------------------|
+|----|
 | **`White,Mack`**, Li Kui, Angel Chen, Bradley Strickland, Shalanda Grier, Joseph Peters, Dante Capone, Grace Cawley, Kyle Emery, Lauren Enright, Anya Stajner, James Nelson, Jennifer Caselle, Russel Hopcroft, Jennifer Rehage, Deron Burkepile, Nicholas Lyon, and Mark Ohman. 2025. Estimates of nitrogen and phosphorus excretion rates in individual marine and estuarine animals. *Environmental Data Initiative*. |
 
 ### Funding
 
 |  |  |
-|------------------------------------|------------------------------------|
+|----|----|
 | NSF Long-Term Ecological Research SPARC Synthesis Grant (Co-PI); Funded by US-LTER **(\$20,000**) | 2025 |
 | Conference Travel Grant; Funded by Ocean Tracking Network (**\$500**) | 2024 |
 | Florida Forage Fish Research Fellowship (PI); FFFC & FWRI **(\$15,000**) | 2024 |
@@ -80,14 +80,14 @@ editor: visual
 #### ***Proposals pending or not selected for funding***
 
 |  |  |
-|------------------------------------|-----------------------------------:|
+|----|---:|
 | Ford Foundation Pre-doctoral Fellowship (PI); Ford Foundation **(\$30,000**) | 2022 |
 | Conservation Research Grant (PI); North American Native Fishes Association (**\$1,000**) | 2020 |
 
 ### Awards & Honors
 
 |  |  |
-|------------------------------------|-----------------------------------:|
+|----|---:|
 | Best Student Poster Award***,** Florida Coastal Everglades LTER All-Scientists Meeting* | 2025 |
 | Student of the Year, *Florida Coastal Everglades LTER* | 2023 |
 | Best Student Poster Award***,** Florida Coastal Everglades LTER All-Scientists Meeting* | 2023 |
@@ -99,20 +99,20 @@ editor: visual
 #### ***Teaching***
 
 |  |  |
-|------------------------------------|-----------------------------------:|
+|----|---:|
 | **Principles of Ecology Lab (BIOL 3130):** 3 Semesters **-** Tennessee Technological University | 2020-2021 |
 | **Principles of Biology Lab (BIOL 1113):** 2 Semesters - Tennessee Technological University | 2019 |
 
 #### ***Mentoring***
 
 |  |  |
-|------------------------------------|-----------------------------------:|
+|----|---:|
 | **Graduate & Undergraduate Student Research Mentor**: MS students - Florida International University (5); UG Students - Florida International University (12), Tennessee Technological University (4); NSF-REU Students – Florida International University (2) | 2019-Present |
 
 ### University & Professional Service
 
 |  |  |
-|-----------------------------------------------------------------|-----------------------------------:|
+|----|---:|
 | Gear Loan & Deployment Committee, *Ocean Tracking Network* | 2024-Present |
 | Aquatic Technical Working Group Committee, *National Ecological Observatory Network* | 2023-Present |
 | Broadening Inclusion Committee, *Florida Coastal Everglades LTER* | 2022-Present |
@@ -128,7 +128,7 @@ editor: visual
 ### Selected Presentations
 
 |  |  |
-|----------------------------------------------------|-----------------------------------:|
+|----|---:|
 | Causes and consequences of Common Snook (*Centropomus undecimalis*) space use specialization; *Florida American Fisheries Society annual meeting – oral presentation* | 2025 |
 | Balancing the budget: metabolic drivers modulate the foraging and activity of a coastal mesopredator; *Florida American Fisheries Society annual meeting – poster presentation* | 2025 |
 | Synthesis Working Group Updates; *Florida Coastal Everglades LTER All-Scientist meeting – oral presentation* | 2025 |
@@ -152,7 +152,7 @@ editor: visual
 ### Specialized Skills
 
 |  |
-|------------------------------------------------------------------------|
+|----|
 | Proficiency in R, Git, GitHub, QGIS, and ArcGIS |
 | Experience in Python, CCS, HTML |
 | Extensive backcountry, kayak, canoe, trailering, and boating experience |
