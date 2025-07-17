@@ -12,7 +12,7 @@ about:
     - href: https://scholar.google.com/citations?user=hLHcmSYAAAAJ&hl=en&oi=sra
       text: Google Scholar
       icon: archive-fill
-    - href: mailto:mwhite@fiu.edu
+    - href: mailto:mackwhiteecology@gmail.com
       text: Email
       icon: envelope-fill
     - href: https://bsky.app/profile/mackeco.bsky.social
