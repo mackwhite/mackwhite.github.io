@@ -21,7 +21,7 @@ about:
 ---
 
 ::: {#header}
-My name is Mack White (*he/him*) and I am a PhD candidate at Florida International University. I spend most of my time thinking about animal behavior (drivers and function). However, I truly enjoy thinking about any interesting ecological question. My research asks questions across levels of ecological organization – *from individuals to ecosystems* – in hopes of providing a more holistic understanding of the natural world that informs management, as well as theory.
+My name is Mack White (*he/him*) and I am a Postdoctoral Research Scientists at The Ohio State University (Go Buckeyes {{< fa football >}}). I spend most of my time thinking about animal behavior (drivers and function). However, I truly enjoy thinking about any interesting ecological question. My research asks questions across levels of ecological organization – *from individuals to ecosystems* – in hopes of providing a more holistic understanding of the natural world that informs management, as well as theory.
 
 ## Skills & Interests
 
