@@ -3,17 +3,17 @@ title: "CV"
 editor: visual
 ---
 
-##### *last updated 07/10/2025 - email mackwhiteecology\@gmail.com for updated/detailed copy of CV*
+##### *last updated 09/10/2025 - email mackwhiteecology\@gmail.com for updated/detailed copy of CV*
 
 |  |  |  |  |
 |:----------------:|:----------------:|:----------------:|:----------------:|
-| Ph.D. Candidate | Florida International University | mwhite\@fiu.edu | \(304\) 482-9142 |
+| Postdoctoral Scholar | The Ohio State University | mackwhiteecology\@gmail.com | \(304\) 482-9142 |
 
 ### Education
 
 |  |  |
 |------------------------------------|-----------------------------------:|
-| Florida International University - Ph.D., Earth Systems Science (**4.0 GPA**) | 2021-Present |
+| Florida International University - Ph.D., Earth Systems Science (**4.0 GPA**) | 2021-2025 |
 | Tennessee Technological University - M.S., Biology (**4.0 GPA**) | 2019-2021 |
 | Marshall University -  B.S., Environmental Science (**3.43 GPA**) | 2013-2017 |
 
@@ -21,7 +21,8 @@ editor: visual
 
 |  |  |
 |------------------------------------|-----------------------------------:|
-| **Graduate Research Assistant** - Florida International University, *Miami, FL* (Advisor: Dr. Jennifer Rehage) | 2021-Present |
+| **Postdoctoral Research Scientists** - The Ohio State University, *Columbus, OH* (Advisor: Dr. Casey Pennock) | 2025-Present |
+| **Graduate Research Assistant** - Florida International University, *Miami, FL* (Advisor: Dr. Jennifer Rehage) | 2021-2025 |
 | **Graduate Teaching Assistant** - Tennessee Technological University, *Cookeville, TN* (Advisor: Dr. Kit Wheeler) | 2019-2021 |
 | **Contractual Biologist** - Ohio River Valley Water Sanitation Commission (ORSANCO), *Cincinnati, OH* | 2018 |
 | **Watershed Restoration Technician –** Trout Unlimited & United States Forest Service (USFS), *Bartow, WV* | 2017 |
@@ -32,7 +33,7 @@ editor: visual
 
 |  |
 |------------------------------------------------------------------------|
-| **`White,Mack`**, W. Ryan James, Justin S. Lesser, Ryan J. Rezek, Jonathan R. Rodemann, Ross E. Boucek, Rolando O. Santos, Jennifer S. Rehage (In press). Linking hydrology, temperature, and energetics: global change implications for the diet of a generalist predator. *Marine and Coastal Fisheries*. |
+| **`White,Mack`**, W. Ryan James, Justin S. Lesser, Ryan J. Rezek, Jonathan R. Rodemann, Ross E. Boucek, Rolando O. Santos, Jennifer S. Rehage (2025). Linking hydrology, temperature, and energetics: global change implications for the diet of a generalist predator. *Marine and Coastal Fisheries*. |
 | Strebler, Marissa, Matthew Grisnik, **`Mack White`**, and Ryan J. Hanscom (2025). “Herpetofauna of Catoosa Wildlife Management Area and species-area relationships of reptiles and amphibians across Tennessee. *Herpetological Conservation and Biology* |
 | Santos, Rolando O., **`Mack White`**, W. Ryan James, Natasha M. Viadero, Jordan A. Massie, Ross E. Boucek, and Jennifer S. Rehage (2025). “Cause and consequences of Common Snook (*Centropomus undecimalis*) space use specialization in a subtropical riverscape.” *Scientific Reports* 15 (1): 1–15 |
 | Hudson, Ryan R., Kit Wheeler, **`Mack White`**, and Justin N. Murdock (2024). “Migratory redhorse suckers provide subsidies of nitrogen but not phosphorus to a spawning stream.” *Ecology of Freshwater Fish* 33 (2): e12758 |
