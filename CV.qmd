@@ -3,11 +3,11 @@ title: "CV"
 editor: visual
 ---
 
-##### *last updated 09/10/2025 - email mackwhiteecology\@gmail.com for updated/detailed copy of CV*
+##### *last updated 05/01/2026 - email mackwhiteecology\@gmail.com for updated/detailed copy*
 
-|  |  |  |  |
-|:----------------:|:----------------:|:----------------:|:----------------:|
-| Postdoctoral Scholar | The Ohio State University | mackwhiteecology\@gmail.com | \(304\) 482-9142 |
+|                      |                           |                             |
+|:-----------------:|:----------------------:|:---------------------------:|
+| Postdoctoral Scholar | The Ohio State University | mackwhiteecology\@gmail.com |
 
 ### Education
 
@@ -29,44 +29,56 @@ editor: visual
 
 ### Publications
 
+###### *\*Student/staff author under my supervision*
+
 ##### [In press or published]{.underline}
 
 |  |
 |------------------------------------------------------------------------|
+| \*Goldner, Victoria S., **`Mack White`**, Cody W. Eggenberger, Alia Jones, Cameron Atkinson, Jonathan R. Rodemann, W. Ryan James, Andrea M. Kroetz, Patrick M. O’Donnell, Ross E. Boucek, Rolando O. Santos, Jennifer S. Rehage (2026). Gone but not forgotten: Collaborative telemetry network provides insight into out-of-system movements of Common Snook (*Centropomus undecimalis*). *Marine and Coastal Fisheries*. |
+| Sturges, James W., W. Ryan James, Ryan J. Rezek, Rolando O. Santos, **`Mack White`**, Gina A. Badlowski, Shakira Trabelsi, Jordan A. Massie, James A. Nelson, Joel C. Trexler, and Jennifer S. Rehage (2026). Food web reliance on green and brown energy pathways varies across an ecosystem gradient. *Ecosphere*. |
 | **`White,Mack`**, W. Ryan James, Justin S. Lesser, Ryan J. Rezek, Jonathan R. Rodemann, Ross E. Boucek, Rolando O. Santos, Jennifer S. Rehage (2025). Linking hydrology, temperature, and energetics: global change implications for the diet of a generalist predator. *Marine and Coastal Fisheries*. |
+| Jonathan R. Rodemann, **`Mack White`**, W. Ryan James, Rolando O. Santos, Lucas P. Griffin, Sophia V. Costa, Bradley T. Furman, Simon J. Pittman, Danial Gann, Jennifer S. Rehage (2025). Hierarchical habitat selection by a predatory fish in a patchy seascape. *Scientific Reports.* |
 | Strebler, Marissa, Matthew Grisnik, **`Mack White`**, and Ryan J. Hanscom (2025). “Herpetofauna of Catoosa Wildlife Management Area and species-area relationships of reptiles and amphibians across Tennessee. *Herpetological Conservation and Biology* |
 | Santos, Rolando O., **`Mack White`**, W. Ryan James, Natasha M. Viadero, Jordan A. Massie, Ross E. Boucek, and Jennifer S. Rehage (2025). “Cause and consequences of Common Snook (*Centropomus undecimalis*) space use specialization in a subtropical riverscape.” *Scientific Reports* 15 (1): 1–15 |
 | Hudson, Ryan R., Kit Wheeler, **`Mack White`**, and Justin N. Murdock (2024). “Migratory redhorse suckers provide subsidies of nitrogen but not phosphorus to a spawning stream.” *Ecology of Freshwater Fish* 33 (2): e12758 |
 | **`White,Mack`**, Kit Wheeler, Ryan R. Hudson, and Justin N. Murdock (2023). “Salmon of the Southeastern U.S.: Sucker migrations deliver resource subsidies to oligotrophic stream.” *Ecology of Freshwater Fish* 32 (1): 181–94 |
-| **`White,Mack`** (2021). “Nutrient Contributions from and Early Life History Variability of an Adfluvial Sucker in an Oligotrophic Southeastern Stream.” *Thesis available on ProQuest* |
 
-##### [In review]{.underline}
-
-|  |
-|------------------------------------------------------------------------|
-| Jonathan R. Rodemann, **`Mack White`**, W. Ryan James, Rolando O. Santos, Lucas P. Griffin, Sophia V. Costa, Bradley T. Furman, Simon J. Pittman, Danial Gann, Jennifer S. Rehage (In review). Hierarchical habitat selection by a predatory fish in a patchy seascape. *Scientific Reports.* |
-| Goldner, Victoria S., **`Mack White`**, Cody W. Eggenberger, Alia Jones, Cameron Atkinson, Jonathan R. Rodemann, W. Ryan James, Andrea M. Kroetz, Patrick M. O’Donnell, Ross E. Boucek, Rolando O. Santos, Jennifer S. Rehage (In review). Gone but not forgotten: Collaborative telemetry network provides insight into out-of-system movements of Common Snook (*Centropomus undecimalis*). *Marine and Coastal Fisheries*. |
-| Sturges, James W., W. Ryan James, Ryan J. Rezek, Rolando O. Santos, **`Mack White`**, Gina A. Badlowski, Shakira Trabelsi, Jordan A. Massie, James A. Nelson, Joel C. Trexler, and Jennifer S. Rehage (In review). Food web reliance on green and brown energy pathways varies across an ecosystem gradient. *Ecosphere*. |
-
-##### [In prep]{.underline}
+##### [In review/revision]{.underline}
 
 |  |
 |------------------------------------------------------------------------|
-| **`White,Mack`**, Jonathan R. Rodemann, W. Ryan James, Cameron C. Atkinson, James W. Sturges, Jennifer S. Rehage (In prep). Environmental conditions interact with time of day to reshape the crepuscular activity pattern of an ectothermic mesopredator. |
-| **`White,Mack`**, Nate P. Lemoine, W. Ryan James, Jake E. Allgeier, Deron E. Burkepile, Jennifer S. Rehage, Max C.N. Castorani, and… (13 additional authors; In prep). Taxonomic richness and population asynchrony drives temporal stability of consumer-mediated nutrient dynamics across diverse marine ecosystems. |
+| **`White,Mack`**, Nate P. Lemoine, W. Ryan James, Jake E. Allgeier, Deron E. Burkepile, Jennifer S. Rehage, Max C.N. Castorani, and… (13 additional authors; In revision). Taxonomic richness and population asynchrony drives temporal stability of consumer-mediated nutrient dynamics across diverse marine ecosystems. *Proceedings of the National Academy of Sciences.* |
+| **`White, Mack`**, Jonathan R. Rodemann, W. Ryan James, James W. Sturges, Cameron C. Atkinson, Rolando O. Santos, and Jennifer S. Rehage. **In review**. Body size and temperature interact with time of day to shape the activity pattern of an ectothermic predator. *Royal Society Open Science* |
+| **`White, Mack`**, Chloe E. Lyles, Lindsey A. Bruckerhoff, Charles Yackulic, Phaedra Budy, and Casey A. Pennock . **In review**. Flow reductions shape invertebrate community taxonomy and traits in dryland river systems. *Freshwater Biology*. |
+
+##### [In prep (draft available)]{.underline}
+
+|  |
+|------------------------------------------------------------------------|
+| [**White, Mack**]{.smallcaps}, Cody W. Eggenberger, W. Ryan James, Victoria S. Goldner, James W. Sturges, Cameron C. Atkinson, Rolando O. Santos, and Jennifer S. Rehage. **In prep**. Movement strategies dictate the spatial dynamics of consumer nutrient and energy fluxes. *Journal of Animal Ecology.* |
+| \*Palmieri, Michaela, Casey A. Pennock, and **`Mack White`**. In prep. Hydrology matters more than nonnatives for native fish assemblages in a pristine dryland river. **In prep**. *Transactions of the American Fisheries Society*. |
 | James, W. Ryan, Jonathan R. Rodemann, **`Mack White`**, Gina A. Badlowski, Valentina Bautista, Nicholas A. Castillo, Sophia V. Costa, and… (9 additional authors; In prep). Trophic niche packing varies seasonally in a coastal seagrass food web. |
-| **`White,Mack`**, Cody W. Eggenberger, Cameron Atkinson, Victoria S. Goldner, James W. Sturges, Jonathan R. Rodemann, Rolando O. Santos, and Jennifer S. Rehage (In prep). Temporal variation of individual movement strategies and home range sizes mediates the spatial distribution of consumer-mediated nutrient supply in a coastal river system. |
 
 ##### [Datasets published]{.underline}
 
 |  |
 |------------------------------------------------------------------------|
 | **`White,Mack`**, Li Kui, Angel Chen, Bradley Strickland, Shalanda Grier, Joseph Peters, Dante Capone, Grace Cawley, Kyle Emery, Lauren Enright, Anya Stajner, James Nelson, Jennifer Caselle, Russel Hopcroft, Jennifer Rehage, Deron Burkepile, Nicholas Lyon, and Mark Ohman. 2025. Estimates of nitrogen and phosphorus excretion rates in individual marine and estuarine animals. *Environmental Data Initiative*. |
+| Rehage, Jennifer, Jordan Massie, Natasha Viadero, James Sturges, **`Mack White`**, and Cameron Atkinson. **2025**. Seasonal Electrofishing Data from Rookery Branch and Tarpon Bay, Everglades National Park (FCE LTER), Florida, USA, November 2004 – ongoing. *Environmental Data Initiative*. |
+| Rehage, Jennifer, Michael Heithaus, Ross Boucek, Jordan Massie, **`Mack White`**, James Sturges, and Cameron Atkinson. **2025**. Movements of aquatic predators within the Shark River estuary (FCE LTER), Everglades National Park, South Florida, USA, June 2007 – ongoing. *Environmental Data Initiative*. |
+
+##### [Other products]{.underline}
+
+|  |
+|------------------------------------------------------------------------|
+| **`White, Mack`. 2025.** Functional Consequences and Drivers of Fish Behavior in Coastal Ecosystems. *Dissertation available on ProQuest – Florida International University.* |
+| **`White, Mack`**. **2021**. Nutrient Contributions from and Early Life History Variability of an Adfluvial Sucker in an Oligotrophic Southeastern Stream. *Thesis available on ProQuest – Tennessee Technological University.* |
 
 ### Funding
 
 |  |  |
-|------------------------------------|------------------------------------|
+|------------------------------------|-----------------------------------:|
 | NSF Long-Term Ecological Research SPARC Synthesis Grant (Co-PI); Funded by US-LTER **(\$20,000**) | 2025 |
 | Conference Travel Grant; Funded by Ocean Tracking Network (**\$500**) | 2024 |
 | Florida Forage Fish Research Fellowship (PI); FFFC & FWRI **(\$15,000**) | 2024 |
@@ -97,12 +109,26 @@ editor: visual
 
 ### Teaching & Mentor Experience
 
-#### ***Teaching***
+#### ***Instructor of Record***
+
+|  |  |
+|------------------------------------|-----------------------------------:|
+| **Aquatic Ecology (EEOB 8896):** 1 Semester **-** The Ohio State University | 2026 |
+
+#### ***Teaching Assistant***
 
 |  |  |
 |------------------------------------|-----------------------------------:|
 | **Principles of Ecology Lab (BIOL 3130):** 3 Semesters **-** Tennessee Technological University | 2020-2021 |
 | **Principles of Biology Lab (BIOL 1113):** 2 Semesters - Tennessee Technological University | 2019 |
+
+#### ***Workshops Led***
+
+|  |  |
+|------------------------------------|-----------------------------------:|
+| **Introduction to Git & GitHub** - The Ohio State University | Spring 2026 |
+| **Storytelling with Science** -Florida International University and The Ohio State University | Fall 2025 + Spring 2026 |
+| **Incorporating animal movement into ecosystem models** - United States LTER All Scientist Meeting | Fall 2022 |
 
 #### ***Mentoring***
 
@@ -110,26 +136,12 @@ editor: visual
 |------------------------------------|-----------------------------------:|
 | **Graduate & Undergraduate Student Research Mentor**: MS students - Florida International University (5); UG Students - Florida International University (12), Tennessee Technological University (4); NSF-REU Students – Florida International University (2) | 2019-Present |
 
-### University & Professional Service
-
-|  |  |
-|------------------------------------|-----------------------------------:|
-| Gear Loan & Deployment Committee, *Ocean Tracking Network* | 2024-Present |
-| Aquatic Technical Working Group Committee, *National Ecological Observatory Network* | 2023-Present |
-| Broadening Inclusion Committee, *Florida Coastal Everglades LTER* | 2022-Present |
-| Diversity, Equity, and Inclusion Committee, *Southeastern Fishes Council* | 2021-Present |
-| Florida AFS - Reefs to Rivers Blog, Editor, *Florida Chapter of the American Fisheries Society* | 2022-2023 |
-| Florida AFS Student Subunit, University Liaison, *Florida Chapter of the American Fisheries Society* | 2022-2023 |
-| FCE-LTER Student Subunit, Secretary, *Florida Coastal Everglades LTER* | 2021-2022 |
-| Biology Graduate Student Society, President, *Biology Department of Tennessee Technological University* | 2020-2021 |
-| City of Cookeville Fishing Derby, Event Coordinator, *Tennessee Chapter of the American Fisheries Society* | 2020 |
-| Biology Graduate Student Society, Treasurer, *Biology Department of Tennessee Technological University* | 2019 |
-| Life Below the Water Line Community Outreach Program, *Ohio River Valley Water Sanitation Commission* | 2018 |
-
 ### Selected Presentations
 
 |  |  |
 |------------------------------------|-----------------------------------:|
+| Flux by fin: The ecological causes and consequences of fish movement; *Tennessee Technological University – invited talk* | 2026 |
+| Flux and Flow: Functional roles of fishes in the wake of global change; *University of South Carolina Beaufort – invited talk* | 2026 |
 | Causes and consequences of Common Snook (*Centropomus undecimalis*) space use specialization; *Florida American Fisheries Society annual meeting – oral presentation* | 2025 |
 | Balancing the budget: metabolic drivers modulate the foraging and activity of a coastal mesopredator; *Florida American Fisheries Society annual meeting – poster presentation* | 2025 |
 | Synthesis Working Group Updates; *Florida Coastal Everglades LTER All-Scientist meeting – oral presentation* | 2025 |
@@ -149,6 +161,49 @@ editor: visual
 | Suckers - salmon of the South? *Tennessee Rare Fishes Meeting – oral presentation* | 2020 |
 | Abundance estimates of spawning catostomids in a small, oligotrophic stream using aerial imagery; *Southeastern Fishes Council annual meeting – oral presentation* | 2019 |
 | Native brook trout conservation genetics; *Tennessee Technological University Department of Biology Seminar Series – oral presentation* | 2019 |
+
+### Departmental and Professional Society Service
+
+|  |
+|------------------------------------------------------------------------|
+| Edward Hayes Graduate Research Forum Abstract Judge, *The Ohio State University* (2026) |
+| Annual Meeting Sponsorship Committee, *American Fisheries Society* (2025-Present) |
+| Aquatic Technical Working Group Committee, *National Ecological Observatory Network* (2023-Present) |
+| Broadening Participation Committee, *Florida Coastal Everglades LTER Program* (2025) |
+| Justice, Equity, Diversity, and Inclusion Committee, *Florida Coastal Everglades LTER Program* (2022-2024) |
+| Justice, Equity, Diversity, and Inclusion Committee, *Southeastern Fishes Council* (2021-2025) |
+| Reefs to Rivers Blog Editor, *Florida Chapter of the American Fisheries Society* (2022-2023) |
+| Student Subunit Social Media Manager, *Florida Chapter of the American Fisheries Society* (2022-2023) |
+| Student Subunit Secretary, *Florida Coastal Everglades LTER Program* (2021-2022) |
+| Biology Graduate Student Society President, *Tennessee Technological University* (2020-2021) |
+| City of Cookeville Fishing Derby Event Coordinator, *Tennessee Chapter of the American Fisheries Society* (2020) |
+| Biology Graduate Student Society Treasurer, *Tennessee Technological University* (2019) |
+
+### Reviewer and Evaluation Services
+
+##### [Manuscript review for journals]{.underline}
+
+|                                        |
+|----------------------------------------|
+| Ecosystems                             |
+| Estuaries and Coasts                   |
+| Marine Ecology Progress Series         |
+| Frontiers in Ecology and Evolution     |
+| Journal of Experimental Marine Biology |
+
+##### [Proposal review for granting bodies]{.underline}
+
+|                        |
+|------------------------|
+| Ocean Tracking Network |
+
+### Professional Society Memberships
+
+|                                |
+|--------------------------------|
+| American Fisheries Society     |
+| Society for Freshwater Science |
+| Ecological Society of America  |
 
 ### Specialized Skills
 
