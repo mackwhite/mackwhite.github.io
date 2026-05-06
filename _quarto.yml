@@ -13,10 +13,12 @@ website:
         href: index.qmd
       - text: "Research"
         href: Research.qmd
+      - text: "Teaching"
+        href: Teaching.qmd
+      - text: "The Confluence"
+        href: Blog.qmd
       - text: "CV"
         href: CV.qmd
-      - text: "From the Field"
-        href: Pics.qmd
     right: 
       - icon: github
         href: https://github.com/mackwhite
