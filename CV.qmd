@@ -56,9 +56,8 @@ editor: visual
 
 |  |
 |------------------------------------------------------------------------|
-| [**White, Mack**]{.smallcaps}, Cody W. Eggenberger, W. Ryan James, Victoria S. Goldner, James W. Sturges, Cameron C. Atkinson, Rolando O. Santos, and Jennifer S. Rehage. **In prep**. Movement strategies dictate the spatial dynamics of consumer nutrient and energy fluxes. *Journal of Animal Ecology.* |
+| **`White, Mack`**, Cody W. Eggenberger, W. Ryan James, Victoria S. Goldner, James W. Sturges, Cameron C. Atkinson, Rolando O. Santos, and Jennifer S. Rehage. **In prep**. Movement strategies dictate the spatial dynamics of consumer nutrient and energy fluxes. *Journal of Animal Ecology.* |
 | \*Palmieri, Michaela, Casey A. Pennock, and **`Mack White`**. In prep. Hydrology matters more than nonnatives for native fish assemblages in a pristine dryland river. **In prep**. *Transactions of the American Fisheries Society*. |
-| James, W. Ryan, Jonathan R. Rodemann, **`Mack White`**, Gina A. Badlowski, Valentina Bautista, Nicholas A. Castillo, Sophia V. Costa, and… (9 additional authors; In prep). Trophic niche packing varies seasonally in a coastal seagrass food web. |
 
 ##### [Datasets published]{.underline}
 
