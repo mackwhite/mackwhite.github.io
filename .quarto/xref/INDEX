@@ -25,5 +25,11 @@
   },
   "background.qmd": {
     "background.html": "646a5923"
+  },
+  "Teaching.qmd": {
+    "Teaching.html": "4424e13c"
+  },
+  "Blog.qmd": {
+    "Blog.html": "8885c2d3"
   }
 }
