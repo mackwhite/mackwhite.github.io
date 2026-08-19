@@ -3,7 +3,7 @@ title: "CV"
 editor: visual
 ---
 
-##### *last updated 05/01/2026 - email mackwhiteecology\@gmail.com for updated/detailed copy*
+##### *last updated 08/19/2026 - email mackwhiteecology\@gmail.com for updated/detailed copy*
 
 |                      |                           |                             |
 |:-----------------:|:----------------------:|:---------------------------:|
@@ -29,35 +29,37 @@ editor: visual
 
 ### Publications
 
-###### *\*Student/staff author under my supervision*
+###### *+mentored student/technician, \*corresponding author*
 
 ##### [In press or published]{.underline}
 
 |  |
 |------------------------------------------------------------------------|
-| \*Goldner, Victoria S., **`Mack White`**, Cody W. Eggenberger, Alia Jones, Cameron Atkinson, Jonathan R. Rodemann, W. Ryan James, Andrea M. Kroetz, Patrick M. O’Donnell, Ross E. Boucek, Rolando O. Santos, Jennifer S. Rehage (2026). Gone but not forgotten: Collaborative telemetry network provides insight into out-of-system movements of Common Snook (*Centropomus undecimalis*). *Marine and Coastal Fisheries*. |
-| Sturges, James W., W. Ryan James, Ryan J. Rezek, Rolando O. Santos, **`Mack White`**, Gina A. Badlowski, Shakira Trabelsi, Jordan A. Massie, James A. Nelson, Joel C. Trexler, and Jennifer S. Rehage (2026). Food web reliance on green and brown energy pathways varies across an ecosystem gradient. *Ecosphere*. |
-| **`White,Mack`**, W. Ryan James, Justin S. Lesser, Ryan J. Rezek, Jonathan R. Rodemann, Ross E. Boucek, Rolando O. Santos, Jennifer S. Rehage (2025). Linking hydrology, temperature, and energetics: global change implications for the diet of a generalist predator. *Marine and Coastal Fisheries*. |
+| **`*White,Mack,`** Nate P. Lemoine, W. Ryan James, Jake E. Allgeier, Deron E. Burkepile, Jennifer S. Rehage, Max C.N. Castorani, and… (13 additional authors). **In press**. Scale-dependent effects of species richness and asynchrony regulate the temporal stability of consumer-mediated nutrient dynamics. *Proceedings of the National Academy of Sciences of the United States of America*. |
+| **`*White,Mack`**, Jonathan R. Rodemann, W. Ryan James, James W. Sturges, Cameron C. Atkinson, Rolando O. Santos, and Jennifer S. Rehage. **2026**. Body size and temperature interact with time of day to shape the activity pattern of an ectothermic predator. *Royal Society Open Science* 13:260735. |
+| +Goldner, Victoria, **`Mack White`**, Cody W. Eggenberger, Alia Jones, Cameron Atkinson, Jonathan R. Rodemann, W. Ryan James, Andrea M. Kroetz, Patrick M. O’Donnell, Ross E. Boucek, Rolando O. Santos, Jennifer S. Rehage. **2026**. Gone but not forgotten: Collaborative telemetry network provides insight into out-of-system movements of Common Snook (*Centropomus undecimalis*). *Marine and Coastal Fisheries* 18(1). |
+| Sturges, James, W. Ryan James, Ryan J. Rezek, Rolando O. Santos, **`Mack White`**, Gina A. Badlowski, Shakira Trabelsi, Jordan A. Massie, James A. Nelson, Joel C. Trexler, and Jennifer S. Rehage. **2026**. Food web reliance on green and brown energy pathways varies across an ecosystem gradient. *PLoS One* 21(2). |
+| **`*White,Mack`**, W. Ryan James, Justin S. Lesser, Ryan J. Rezek, Jonathan R. Rodemann, Ross E. Boucek, Rolando O. Santos, Jennifer S. Rehage (2025). Linking hydrology, temperature, and energetics: global change implications for the diet of a generalist predator. *Marine and Coastal Fisheries*. |
 | Jonathan R. Rodemann, **`Mack White`**, W. Ryan James, Rolando O. Santos, Lucas P. Griffin, Sophia V. Costa, Bradley T. Furman, Simon J. Pittman, Danial Gann, Jennifer S. Rehage (2025). Hierarchical habitat selection by a predatory fish in a patchy seascape. *Scientific Reports.* |
 | Strebler, Marissa, Matthew Grisnik, **`Mack White`**, and Ryan J. Hanscom (2025). “Herpetofauna of Catoosa Wildlife Management Area and species-area relationships of reptiles and amphibians across Tennessee. *Herpetological Conservation and Biology* |
 | Santos, Rolando O., **`Mack White`**, W. Ryan James, Natasha M. Viadero, Jordan A. Massie, Ross E. Boucek, and Jennifer S. Rehage (2025). “Cause and consequences of Common Snook (*Centropomus undecimalis*) space use specialization in a subtropical riverscape.” *Scientific Reports* 15 (1): 1–15 |
 | Hudson, Ryan R., Kit Wheeler, **`Mack White`**, and Justin N. Murdock (2024). “Migratory redhorse suckers provide subsidies of nitrogen but not phosphorus to a spawning stream.” *Ecology of Freshwater Fish* 33 (2): e12758 |
-| **`White,Mack`**, Kit Wheeler, Ryan R. Hudson, and Justin N. Murdock (2023). “Salmon of the Southeastern U.S.: Sucker migrations deliver resource subsidies to oligotrophic stream.” *Ecology of Freshwater Fish* 32 (1): 181–94 |
+| **`*White,Mack`**, Kit Wheeler, Ryan R. Hudson, and Justin N. Murdock (2023). “Salmon of the Southeastern U.S.: Sucker migrations deliver resource subsidies to oligotrophic stream.” *Ecology of Freshwater Fish* 32 (1): 181–94 |
 
 ##### [In review/revision]{.underline}
 
 |  |
 |------------------------------------------------------------------------|
-| **`White,Mack`**, Nate P. Lemoine, W. Ryan James, Jake E. Allgeier, Deron E. Burkepile, Jennifer S. Rehage, Max C.N. Castorani, and… (13 additional authors; In revision). Taxonomic richness and population asynchrony drives temporal stability of consumer-mediated nutrient dynamics across diverse marine ecosystems. *Proceedings of the National Academy of Sciences.* |
-| **`White, Mack`**, Jonathan R. Rodemann, W. Ryan James, James W. Sturges, Cameron C. Atkinson, Rolando O. Santos, and Jennifer S. Rehage. **In review**. Body size and temperature interact with time of day to shape the activity pattern of an ectothermic predator. *Royal Society Open Science* |
-| **`White, Mack`**, Chloe E. Lyles, Lindsey A. Bruckerhoff, Charles Yackulic, Phaedra Budy, and Casey A. Pennock . **In review**. Flow reductions shape invertebrate community taxonomy and traits in dryland river systems. *Freshwater Biology*. |
+| James, W. Ryan, **`Mack White`**, Herbert Leavitt, Jonathan R. Rodemann, Gina A. Badlowski, and… (13 additional authors). **In review**. Seasonality in species trophic niche width and position alters community niche packing. *Ecology Letters*. |
+| **`*White, Mack`**, Chloe E. Lyles, Lindsey A. Bruckerhoff, Charles Yackulic, Phaedra Budy, and Casey A. Pennock . **In review**. Flow reductions shape aquatic insect communities in dryland river systems. *Ecohydrology*. |
 
 ##### [In prep (draft available)]{.underline}
 
 |  |
 |------------------------------------------------------------------------|
-| **`White, Mack`**, Cody W. Eggenberger, W. Ryan James, Victoria S. Goldner, James W. Sturges, Cameron C. Atkinson, Rolando O. Santos, and Jennifer S. Rehage. **In prep**. Movement strategies dictate the spatial dynamics of consumer nutrient and energy fluxes. *Journal of Animal Ecology.* |
-| \*Palmieri, Michaela, Casey A. Pennock, and **`Mack White`**. In prep. Hydrology matters more than nonnatives for native fish assemblages in a pristine dryland river. **In prep**. *Transactions of the American Fisheries Society*. |
+| **`*White, Mack`**, Cody W. Eggenberger, W. Ryan James, Victoria S. Goldner, James W. Sturges, Cameron C. Atkinson, Rolando O. Santos, and Jennifer S. Rehage. **In prep**. Movement strategies dictate the spatial dynamics of consumer nutrient and energy fluxes. *Journal of Animal Ecology.* |
+| +Palmieri, Michaela, Casey A. Pennock, and **`*Mack White`**. **In prep.** Drought-mediated collapse of native fish recruitment in an invaded dryland river system. *Conservation Biology* |
+| Atkinson, Cameron, **`Mack White`**, James W. Sturges, Justin S. Lesser, Victoria S. Goldner, W. Ryan James, Rolando S. Santos, and Jennifer S. Rehage. **In prep**. Hydrology-mediated shifts in home range size and spatial overlap for two mesopredators in the coastal Florida Everglades. *Marine and Coastal Fisheries.* |
 
 ##### [Datasets published]{.underline}
 
@@ -93,6 +95,8 @@ editor: visual
 
 |  |  |
 |------------------------------------|-----------------------------------:|
+| Movement Ecology of American Paddlefish in the Scioto and Ohio Rivers; Co-Principal Investigator. ***Pending** funding decision by the Columbus Zoo and Aquarium* (**\$35,871**) | 2026 |
+| Multi-scale habitat use and site fidelity of suckers in the Scioto River Basin; Principal Investigator*. **Pending** funding decision by the Columbus Zoo and Aquarium* (**\$574,836**) | 2026 |
 | Ford Foundation Pre-doctoral Fellowship (PI); Ford Foundation **(\$30,000**) | 2022 |
 | Conservation Research Grant (PI); North American Native Fishes Association (**\$1,000**) | 2020 |
 
@@ -132,13 +136,19 @@ editor: visual
 #### ***Mentoring***
 
 |  |  |
-|------------------------------------|-----------------------------------:|
-| **Graduate & Undergraduate Student Research Mentor**: MS students - Florida International University (5); UG Students - Florida International University (12), Tennessee Technological University (4); NSF-REU Students – Florida International University (2) | 2019-Present |
+|------------------------------------|------------------------------------|
+|  |  |
+| **Graduate & Undergraduate Student Research Mentor**: PhD students - The Ohio State University (3); MS students - The Ohio State University (3); Florida International University (5); UG Students - Florida International University (12), Tennessee Technological University (4); NSF-REU Students – Florida International University (2) | 2019-Present |
 
 ### Selected Presentations
 
 |  |  |
 |------------------------------------|-----------------------------------:|
+| Why Y? Evaluating Genetic Biocontrol for Invasive Channel Catfish Management in the San Juan River Basin; *American Fisheries Society national meeting – oral presentation* | 2026 |
+| Flux by fin: The ecological causes and consequences of animal movement; *The Ohio State University – invited seminar* | 2026 |
+| Flux by fin: The ecological causes and consequences of animal movement; *Oak Ridge National Laboratory – invited seminar* | 2026 |
+| Flow reductions shape invertebrate communities in dryland river systems; *Society for Freshwater Science – oral presentation* | 2026 |
+| Movement strategies dictate the spatial dynamics of consumer nutrient and energy fluxes; *Society for Freshwater Science – oral presentation* | 2026 |
 | Flux by fin: The ecological causes and consequences of fish movement; *Tennessee Technological University – invited talk* | 2026 |
 | Flux and Flow: Functional roles of fishes in the wake of global change; *University of South Carolina Beaufort – invited talk* | 2026 |
 | Causes and consequences of Common Snook (*Centropomus undecimalis*) space use specialization; *Florida American Fisheries Society annual meeting – oral presentation* | 2025 |
