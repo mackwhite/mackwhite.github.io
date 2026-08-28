@@ -6,13 +6,13 @@ editor: visual
 ##### *last updated 08/19/2026 - email mackwhiteecology\@gmail.com for updated/detailed copy*
 
 |                      |                           |                             |
-|:-----------------:|:----------------------:|:---------------------------:|
+|:--------------------:|:-------------------------:|:---------------------------:|
 | Postdoctoral Scholar | The Ohio State University | mackwhiteecology\@gmail.com |
 
 ### Education
 
 |  |  |
-|------------------------------------|-----------------------------------:|
+|----|---:|
 | Florida International University - Ph.D., Earth Systems Science (**4.0 GPA**) | 2021-2025 |
 | Tennessee Technological University - M.S., Biology (**4.0 GPA**) | 2019-2021 |
 | Marshall University -  B.S., Environmental Science (**3.43 GPA**) | 2013-2017 |
@@ -20,7 +20,7 @@ editor: visual
 ### Relevant Employment
 
 |  |  |
-|------------------------------------|-----------------------------------:|
+|----|---:|
 | **Postdoctoral Research Scientists** - The Ohio State University, *Columbus, OH* (Advisor: Dr. Casey Pennock) | 2025-Present |
 | **Graduate Research Assistant** - Florida International University, *Miami, FL* (Advisor: Dr. Jennifer Rehage) | 2021-2025 |
 | **Graduate Teaching Assistant** - Tennessee Technological University, *Cookeville, TN* (Advisor: Dr. Kit Wheeler) | 2019-2021 |
@@ -34,7 +34,7 @@ editor: visual
 ##### [In press or published]{.underline}
 
 |  |
-|------------------------------------------------------------------------|
+|----|
 | **`*White,Mack,`** Nate P. Lemoine, W. Ryan James, Jake E. Allgeier, Deron E. Burkepile, Jennifer S. Rehage, Max C.N. Castorani, and… (13 additional authors). **In press**. Scale-dependent effects of species richness and asynchrony regulate the temporal stability of consumer-mediated nutrient dynamics. *Proceedings of the National Academy of Sciences of the United States of America*. |
 | **`*White,Mack`**, Jonathan R. Rodemann, W. Ryan James, James W. Sturges, Cameron C. Atkinson, Rolando O. Santos, and Jennifer S. Rehage. **2026**. Body size and temperature interact with time of day to shape the activity pattern of an ectothermic predator. *Royal Society Open Science* 13:260735. |
 | +Goldner, Victoria, **`Mack White`**, Cody W. Eggenberger, Alia Jones, Cameron Atkinson, Jonathan R. Rodemann, W. Ryan James, Andrea M. Kroetz, Patrick M. O’Donnell, Ross E. Boucek, Rolando O. Santos, Jennifer S. Rehage. **2026**. Gone but not forgotten: Collaborative telemetry network provides insight into out-of-system movements of Common Snook (*Centropomus undecimalis*). *Marine and Coastal Fisheries* 18(1). |
@@ -49,14 +49,14 @@ editor: visual
 ##### [In review/revision]{.underline}
 
 |  |
-|------------------------------------------------------------------------|
+|----|
 | James, W. Ryan, **`Mack White`**, Herbert Leavitt, Jonathan R. Rodemann, Gina A. Badlowski, and… (13 additional authors). **In review**. Seasonality in species trophic niche width and position alters community niche packing. *Ecology Letters*. |
 | **`*White, Mack`**, Chloe E. Lyles, Lindsey A. Bruckerhoff, Charles Yackulic, Phaedra Budy, and Casey A. Pennock . **In review**. Flow reductions shape aquatic insect communities in dryland river systems. *Ecohydrology*. |
 
 ##### [In prep (draft available)]{.underline}
 
 |  |
-|------------------------------------------------------------------------|
+|----|
 | **`*White, Mack`**, Cody W. Eggenberger, W. Ryan James, Victoria S. Goldner, James W. Sturges, Cameron C. Atkinson, Rolando O. Santos, and Jennifer S. Rehage. **In prep**. Movement strategies dictate the spatial dynamics of consumer nutrient and energy fluxes. *Journal of Animal Ecology.* |
 | +Palmieri, Michaela, Casey A. Pennock, and **`*Mack White`**. **In prep.** Drought-mediated collapse of native fish recruitment in an invaded dryland river system. *Conservation Biology* |
 | Atkinson, Cameron, **`Mack White`**, James W. Sturges, Justin S. Lesser, Victoria S. Goldner, W. Ryan James, Rolando S. Santos, and Jennifer S. Rehage. **In prep**. Hydrology-mediated shifts in home range size and spatial overlap for two mesopredators in the coastal Florida Everglades. *Marine and Coastal Fisheries.* |
@@ -64,7 +64,7 @@ editor: visual
 ##### [Datasets published]{.underline}
 
 |  |
-|------------------------------------------------------------------------|
+|----|
 | **`White,Mack`**, Li Kui, Angel Chen, Bradley Strickland, Shalanda Grier, Joseph Peters, Dante Capone, Grace Cawley, Kyle Emery, Lauren Enright, Anya Stajner, James Nelson, Jennifer Caselle, Russel Hopcroft, Jennifer Rehage, Deron Burkepile, Nicholas Lyon, and Mark Ohman. 2025. Estimates of nitrogen and phosphorus excretion rates in individual marine and estuarine animals. *Environmental Data Initiative*. |
 | Rehage, Jennifer, Jordan Massie, Natasha Viadero, James Sturges, **`Mack White`**, and Cameron Atkinson. **2025**. Seasonal Electrofishing Data from Rookery Branch and Tarpon Bay, Everglades National Park (FCE LTER), Florida, USA, November 2004 – ongoing. *Environmental Data Initiative*. |
 | Rehage, Jennifer, Michael Heithaus, Ross Boucek, Jordan Massie, **`Mack White`**, James Sturges, and Cameron Atkinson. **2025**. Movements of aquatic predators within the Shark River estuary (FCE LTER), Everglades National Park, South Florida, USA, June 2007 – ongoing. *Environmental Data Initiative*. |
@@ -72,14 +72,14 @@ editor: visual
 ##### [Other products]{.underline}
 
 |  |
-|------------------------------------------------------------------------|
+|----|
 | **`White, Mack`. 2025.** Functional Consequences and Drivers of Fish Behavior in Coastal Ecosystems. *Dissertation available on ProQuest – Florida International University.* |
 | **`White, Mack`**. **2021**. Nutrient Contributions from and Early Life History Variability of an Adfluvial Sucker in an Oligotrophic Southeastern Stream. *Thesis available on ProQuest – Tennessee Technological University.* |
 
 ### Funding
 
 |  |  |
-|------------------------------------|-----------------------------------:|
+|----|---:|
 | NSF Long-Term Ecological Research SPARC Synthesis Grant (Co-PI); Funded by US-LTER **(\$20,000**) | 2025 |
 | Conference Travel Grant; Funded by Ocean Tracking Network (**\$500**) | 2024 |
 | Florida Forage Fish Research Fellowship (PI); FFFC & FWRI **(\$15,000**) | 2024 |
@@ -94,7 +94,7 @@ editor: visual
 #### ***Proposals pending or not selected for funding***
 
 |  |  |
-|------------------------------------|-----------------------------------:|
+|----|---:|
 | Movement Ecology of American Paddlefish in the Scioto and Ohio Rivers; Co-Principal Investigator. ***Pending** funding decision by the Columbus Zoo and Aquarium* (**\$35,871**) | 2026 |
 | Multi-scale habitat use and site fidelity of suckers in the Scioto River Basin; Principal Investigator*. **Pending** funding decision by the Columbus Zoo and Aquarium* (**\$574,836**) | 2026 |
 | Ford Foundation Pre-doctoral Fellowship (PI); Ford Foundation **(\$30,000**) | 2022 |
@@ -103,7 +103,7 @@ editor: visual
 ### Awards & Honors
 
 |  |  |
-|------------------------------------|-----------------------------------:|
+|----|---:|
 | Best Student Poster Award***,** Florida Coastal Everglades LTER All-Scientists Meeting* | 2025 |
 | Student of the Year, *Florida Coastal Everglades LTER* | 2023 |
 | Best Student Poster Award***,** Florida Coastal Everglades LTER All-Scientists Meeting* | 2023 |
@@ -115,20 +115,20 @@ editor: visual
 #### ***Instructor of Record***
 
 |  |  |
-|------------------------------------|-----------------------------------:|
+|----|---:|
 | **Aquatic Ecology (EEOB 8896):** 1 Semester **-** The Ohio State University | 2026 |
 
 #### ***Teaching Assistant***
 
 |  |  |
-|------------------------------------|-----------------------------------:|
+|----|---:|
 | **Principles of Ecology Lab (BIOL 3130):** 3 Semesters **-** Tennessee Technological University | 2020-2021 |
 | **Principles of Biology Lab (BIOL 1113):** 2 Semesters - Tennessee Technological University | 2019 |
 
 #### ***Workshops Led***
 
 |  |  |
-|------------------------------------|-----------------------------------:|
+|----|---:|
 | **Introduction to Git & GitHub** - The Ohio State University | Spring 2026 |
 | **Storytelling with Science** -Florida International University and The Ohio State University | Fall 2025 + Spring 2026 |
 | **Incorporating animal movement into ecosystem models** - United States LTER All Scientist Meeting | Fall 2022 |
@@ -136,14 +136,14 @@ editor: visual
 #### ***Mentoring***
 
 |  |  |
-|------------------------------------|------------------------------------|
+|----|----|
 |  |  |
 | **Graduate & Undergraduate Student Research Mentor**: PhD students - The Ohio State University (3); MS students - The Ohio State University (3); Florida International University (5); UG Students - Florida International University (12), Tennessee Technological University (4); NSF-REU Students – Florida International University (2) | 2019-Present |
 
 ### Selected Presentations
 
 |  |  |
-|------------------------------------|-----------------------------------:|
+|----|---:|
 | Why Y? Evaluating Genetic Biocontrol for Invasive Channel Catfish Management in the San Juan River Basin; *American Fisheries Society national meeting – oral presentation* | 2026 |
 | Flux by fin: The ecological causes and consequences of animal movement; *The Ohio State University – invited seminar* | 2026 |
 | Flux by fin: The ecological causes and consequences of animal movement; *Oak Ridge National Laboratory – invited seminar* | 2026 |
@@ -174,7 +174,7 @@ editor: visual
 ### Departmental and Professional Society Service
 
 |  |
-|------------------------------------------------------------------------|
+|----|
 | Edward Hayes Graduate Research Forum Abstract Judge, *The Ohio State University* (2026) |
 | Annual Meeting Sponsorship Committee, *American Fisheries Society* (2025-Present) |
 | Aquatic Technical Working Group Committee, *National Ecological Observatory Network* (2023-Present) |
@@ -217,7 +217,7 @@ editor: visual
 ### Specialized Skills
 
 |  |
-|------------------------------------------------------------------------|
+|----|
 | Proficiency in R, Git, GitHub, QGIS, and ArcGIS |
 | Experience in Python, CCS, HTML |
 | Extensive backcountry, kayak, canoe, trailering, and boating experience |
