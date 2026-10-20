@@ -9,12 +9,12 @@ section-divs: false
 <script>document.body.classList.add('mw-home');</script>
 
 <!-- ============ HERO: drone video ============ -->
-<!-- To use your footage: put the compressed video at media/smallmouth-buffalo-drone.mp4
-     (and optionally a still frame at media/smallmouth-buffalo-poster.jpg). Until then the
-     poster photo below shows instead. -->
+<!-- Hero video: media/smallmouth-buffalo-drone.mp4 (32 s loop from the April 2019 drone flight).
+     The poster is its first frame, shown while the video loads.
+ -->
 <header class="mw-hero">
   <video class="mw-hero-video" autoplay muted loop playsinline preload="metadata"
-         poster="images/web/misty-stream.jpg" aria-hidden="true">
+         poster="media/smallmouth-buffalo-poster.jpg" aria-hidden="true">
     <source src="media/smallmouth-buffalo-drone.mp4" type="video/mp4">
   </video>
   <div class="mw-hero-shade"></div>
