@@ -158,7 +158,7 @@ body.mw-home { padding-top: 0 !important; }
   line-height: 1.12;
   letter-spacing: -0.02em;
   margin: 0;
-  max-width: 24ch;
+  max-width: 30ch;
 }
 .mw-intro-side p { font-size: 1.05rem; max-width: 46ch; }
 .mw-portrait {
@@ -259,7 +259,7 @@ body.mw-home { padding-top: 0 !important; }
 .mw-contact p { font-size: clamp(1.1rem, 1.6vw, 1.35rem); margin: 0 0 .75rem; }
 .mw-contact-mail {
   font-family: var(--mw-display); font-weight: 800;
-  font-size: clamp(1.8rem, 6vw, 5.5rem);
+  font-size: clamp(1.1rem, 5.2vw, 4.6rem);
   letter-spacing: -0.035em; line-height: 1;
   color: var(--mw-riffle); text-decoration: none;
   overflow-wrap: anywhere;

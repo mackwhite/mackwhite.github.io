@@ -24,21 +24,21 @@ section-divs: false
     <nav class="mw-hero-links" aria-label="Quick links">
       <a href="Research.html">Research</a>
       <a href="CV.html">CV</a>
-      <a href="mailto:white.3627@osu.edu">Email me</a>
+      <a href="mailto:mackwhiteecology@gmail.com">Email me</a>
     </nav>
   </div>
   <div class="mw-hero-foot">
-    <p class="mw-hero-caption">Smallmouth Buffalo from above. Drone footage by Mack White.</p>
+    <p class="mw-hero-caption">Smallmouth Buffalo spawning migration in Citico Creek. Drone footage by Mack White.</p>
     <button class="mw-video-toggle" type="button" aria-pressed="false">Pause video</button>
   </div>
 </header>
 
 <!-- ============ INTRO ============ -->
 <section class="mw-intro">
-  <p class="mw-lede">I study how fish move, what they eat, and what they leave behind, and how all of it is changing as rivers and coasts warm, dry out, and fill with invaders.</p>
+  <p class="mw-lede">How does global change alter the roles animals play in ecosystems? My research tackles this question across levels of biological organization, from individuals to ecosystems.</p>
   <div class="mw-intro-side">
     <img src="images/web/fish-viewer-sm.jpg" alt="Mack White holding a clear viewer full of small stream fish" class="mw-portrait">
-    <p>I work with Dr. Casey Pennock in the Aquatic Conservation &amp; Ecology Lab at Ohio State, mostly in rivers of the Colorado River basin. Before that I earned my Ph.D. at Florida International University working in Everglades National Park. I'm currently looking for a permanent research and teaching position.</p>
+    <p>I work with Dr. Casey Pennock in the Aquatic Conservation &amp; Ecology Lab at Ohio State, mostly in rivers of the Colorado River basin. Before that I earned my Ph.D. at Florida International University working in Everglades National Park.</p>
     <p class="mw-links">
       <a href="https://scholar.google.com/citations?user=hLHcmSYAAAAJ&amp;hl=en&amp;oi=sra">Google Scholar</a>
       <a href="https://github.com/mackwhite">GitHub</a>
@@ -59,12 +59,12 @@ section-divs: false
     <article class="mw-theme">
       <img src="images/web/fiu-snook-sm.jpg" alt="Mack holding a Common Snook on a boat" loading="lazy">
       <h3>Animal movement</h3>
-      <p>Acoustic telemetry and spawning-run surveys to learn when, where, and why fish move, from Common Snook in the Everglades to sucker migrations in Appalachian streams.</p>
+      <p>I use a variety of techniques to understand the ecological causes and consequences of animal movement, from Common Snook in the Gulf of Mexico to suckers in Appalachian streams.</p>
     </article>
     <article class="mw-theme">
       <img src="images/web/ttu-sucker-smile-sm.jpg" alt="Mack standing in a stream holding a sucker" loading="lazy">
       <h3>Nutrients and food webs</h3>
-      <p>How fish recycle and deliver nitrogen and phosphorus, and how diversity keeps that supply stable across ecosystems, including a 20-person LTER synthesis group I lead.</p>
+      <p>From lakes to rivers and rivers to coral reefs, animals link seemingly disparate ecosystems by recycling nutrients and moving energy.</p>
     </article>
     <article class="mw-theme">
       <img src="images/web/osu-boat-sm.jpg" alt="Mack lifting a large fish into a sampling boat on a muddy river" loading="lazy">
@@ -112,19 +112,19 @@ section-divs: false
 <section class="mw-path" aria-labelledby="path-h">
   <h2 id="path-h" class="mw-h2">How I got here</h2>
   <ol>
-    <li><span class="yr">2025 to now</span><span><strong>The Ohio State University</strong>, postdoc. Flow loss, warming, and invasion in Colorado River basin rivers.</span></li>
-    <li><span class="yr">2021 to 2025</span><span><strong>Florida International University</strong>, Ph.D. Fish movement and nutrient dynamics in Everglades National Park.</span></li>
-    <li><span class="yr">2019 to 2021</span><span><strong>Tennessee Tech</strong>, M.S. Nutrients delivered by spawning sucker migrations.</span></li>
-    <li><span class="yr">2018</span><span><strong>ORSANCO</strong>, contract biologist. Fish surveys across the Ohio River basin.</span></li>
-    <li><span class="yr">2017</span><span><strong>Trout Unlimited &amp; US Forest Service</strong>. Brook Trout stream restoration in West Virginia.</span></li>
-    <li><span class="yr">2013 to 2017</span><span><strong>Marshall University</strong>, B.S. Environmental Science.</span></li>
+    <li><span class="yr">2025 to now</span><span><strong>The Ohio State University</strong>, Postdoctoral Research Scientist</span></li>
+    <li><span class="yr">2021 to 2025</span><span><strong>Florida International University</strong>, Ph.D.</span></li>
+    <li><span class="yr">2019 to 2021</span><span><strong>Tennessee Technological University</strong>, M.S.</span></li>
+    <li><span class="yr">2018</span><span><strong>ORSANCO</strong>, Contractual Biologist</span></li>
+    <li><span class="yr">2017</span><span><strong>Trout Unlimited &amp; US Forest Service</strong>, Watershed Restoration Technician</span></li>
+    <li><span class="yr">2013 to 2017</span><span><strong>Marshall University</strong>, B.S.</span></li>
   </ol>
 </section>
 
 <!-- ============ CONTACT ============ -->
 <section class="mw-contact">
-  <p>Want to collaborate, or have a position I'd be a fit for?</p>
-  <a class="mw-contact-mail" href="mailto:white.3627@osu.edu">white.3627@osu.edu</a>
+  <p>Want to collaborate or have questions?</p>
+  <a class="mw-contact-mail" href="mailto:mackwhiteecology@gmail.com">mackwhiteecology@gmail.com</a>
 </section>
 
 <script>
