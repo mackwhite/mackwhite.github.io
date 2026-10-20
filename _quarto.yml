@@ -3,7 +3,8 @@ project:
   # execute-dir: project
   output-dir: docs
   resources:
-    - media/*
+    - media/*.mp4
+    - media/*.jpg
     - images/web/*
 
 website:
