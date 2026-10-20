@@ -2,6 +2,9 @@ project:
   type: website
   # execute-dir: project
   output-dir: docs
+  resources:
+    - media/*
+    - images/web/*
 
 website:
   title: "Mack White"
@@ -33,8 +36,8 @@ format:
     theme: 
       light: macklight.scss
       dark: mackdark.scss
-    mainfont: Open Sans
-    # css: styles.css
+    css: styles.css
+    page-layout: full
     toc: true
     link-external-newwindow: true
     link-external-icon: false

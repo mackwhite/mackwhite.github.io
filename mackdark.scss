@@ -1,40 +1,27 @@
 /*-- scss:defaults --*/
 
-// Colors
-/* source: https://coolors.co/palettes/trending */
-$blue-4: #004e64;
-$blue-3: #427aa1;
-$blue-2: #62b6cb;
-$blue-1: #bee9e8;
-$green-4: #344e41;
-$green-3: #3a5a40;
-$green-2: #588157;
-$green-1: #a3b18a;
-
-$cream: #F4F3EE;
-$gray-0: #d6d6d6;
-$gray-1: #BCB8B1;
-$gray-2: #8A817C;
-$gray-3: #222823;
-$gray-4: #191919;
-$black: #08090A;
+// River palette
+$ink: #0F2529;      // riverbed: deep blue-green
+$channel: #004E64;  // main channel blue (original site color)
+$riffle: #62B6CB;   // light water
+$willow: #A3B18A;   // bank vegetation
+$stone: #EEF0EC;    // gravel bar
+$silt: #5B6B66;     // muted text
 
 // Fonts
-$font-size: 25px;
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,400;12..96,600;12..96,800&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap');
+$font-family-sans-serif: "Source Serif 4", Georgia, serif;
+$headings-font-family: "Bricolage Grotesque", system-ui, sans-serif;
+$headings-font-weight: 700;
+$font-size-root: 18px;
+$line-height-base: 1.6;
 
-// Base document colors
-$navbar-bg: $green-1; // navbar
-$navbar-fg: $blue-4; // navbar foreground elements
-$navbar-hl: $blue-3; // highlight color when on a page
-$body-bg: $gray-3; // page background 
-$body-color: $cream; // page text 
-$footer-bg: $blue-3; // footer 
-$link-color: $blue-2; // hyperlinks 
-
-// Inline code
-$code-bg: $gray-3; // inline code background color
-$code-color: $blue-1; // inline code text color
-
-// Code blocks
-$code-block-bg: $blue-3; // code block background color
+$navbar-bg: $ink;
+$navbar-fg: $stone;
+$navbar-hl: $riffle;
+$body-bg: $ink;
+$body-color: #E3E9E5;
+$link-color: $riffle;
+$footer-bg: #0A1B1E;
+$code-bg: #17363B;
+$code-color: $riffle;
