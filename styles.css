@@ -426,3 +426,6 @@ body.mw-rpage #quarto-content > .rs-theme { padding-top: 0; }
 body.mw-rpage #quarto-content > .rs-map-note { padding-top: .6rem; }
 body.mw-rpage #quarto-content > .rs-next { padding-top: clamp(64px, 9vw, 130px); }
 body.mw-rpage #quarto-content > .rs-open { padding-top: clamp(48px, 6vw, 90px); }
+/* Muted OpenStreetMap base map on the research page */
+#rs-map .leaflet-tile-pane { filter: grayscale(1) contrast(.85) brightness(1.08); }
+body.quarto-dark #rs-map .leaflet-tile-pane { filter: grayscale(1) invert(1) contrast(.8) brightness(.9); }
