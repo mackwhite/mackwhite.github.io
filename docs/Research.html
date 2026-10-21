@@ -506,10 +506,10 @@ ul.task-list li input[type="checkbox"] {
       text: 'Seagrass and sand flat fish communities in the consumer nutrient dynamics synthesis.', papers: ['pnas'] }
   ];
 
-  var dark = document.body.classList.contains('quarto-dark');
   var map = L.map('rs-map', { scrollWheelZoom: false, worldCopyJump: true, zoomSnap: 0.25 });
-  var tiles = L.tileLayer('https://{s}.basemaps.cartocdn.com/' + (dark ? 'dark_all' : 'light_all') + '/{z}/{x}/{y}{r}.png', {
-    attribution: '&copy; OpenStreetMap contributors &copy; CARTO', subdomains: 'abcd', maxZoom: 12
+  // Free OpenStreetMap tiles (no API key). Muted to match the site with a CSS filter in styles.css.
+  L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors', maxZoom: 12
   }).addTo(map);
 
   function esc(s) { var d = document.createElement('div'); d.textContent = s; return d.innerHTML; }
@@ -546,10 +546,6 @@ ul.task-list li input[type="checkbox"] {
     });
   });
   map.on('click', function () { map.scrollWheelZoom.enable(); });
-  new MutationObserver(function () {
-    var d = document.body.classList.contains('quarto-dark');
-    if (d !== dark) { dark = d; tiles.setUrl('https://{s}.basemaps.cartocdn.com/' + (dark ? 'dark_all' : 'light_all') + '/{z}/{x}/{y}{r}.png'); }
-  }).observe(document.body, { attributes: true, attributeFilter: ['class'] });
 })();
 </script>
 
