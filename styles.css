@@ -160,6 +160,15 @@ body.mw-home { padding-top: 0 !important; }
   margin: 0;
   max-width: 30ch;
 }
+.mw-lede-sub {
+  display: block;
+  margin-top: .8em;
+  font-size: .58em;
+  font-weight: 400;
+  line-height: 1.3;
+  letter-spacing: -0.01em;
+  color: var(--mw-muted);
+}
 .mw-intro-side p { font-size: 1.05rem; max-width: 46ch; }
 .mw-portrait {
   width: 100%; max-width: 420px;
