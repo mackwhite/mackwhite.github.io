@@ -83,6 +83,7 @@ editor: visual
 
 |  |  |
 |----|---:|
+| Movement Ecology of American Paddlefish in the Scioto and Ohio Rivers: **Co-Principal Investigator**, *Funded by the Columbus Zoo and Aquarium* (**\$35,871**) | 2026 |
 | Long-Term Ecological Research Synthesis Grant: **Co-Principal Investigator**, *Funded by the National Center for Ecological Analysis & Synthesis* (**\$20,000**) | 2025 |
 | Florida Forage Fish Research Fellowship: *Funded by the Florida Forage Fish Coalition* (**\$15,000**) | 2024 |
 | Supplemental Research Grant: *Funded by NSF CREST Center for Aquatic Chemistry & Environment* (**\$4,550**) | 2023 |
@@ -93,7 +94,6 @@ editor: visual
 
 |  |  |
 |----|---:|
-| Movement Ecology of American Paddlefish in the Scioto and Ohio Rivers; **Co-Principal Investigator**. ***Pending** funding decision by the Columbus Zoo and Aquarium* (**\$35,871**) | 2026 |
 | Multi-scale habitat use and site fidelity of suckers in the Scioto River Basin; **Principal Investigator**. ***Pending** funding decision by the Columbus Zoo and Aquarium* (**\$574,836**) | 2026 |
 | Ford Foundation Predoctoral Fellowship: ***Not selected** for funding by the Ford Foundation* (**\$30,000**) | 2022 |
 | Conservation Research Grant: ***Not selected** for funding by the North American Native Fishes Association* (**\$1,000**) | 2020 |
@@ -228,7 +228,7 @@ editor: visual
 |  |
 |----|
 | Proficiency in R, Git, GitHub, QGIS, and ArcGIS |
-| Experience in Python, CCS, HTML |
+| Experience in Python, CSS, HTML |
 | Extensive backcountry, kayak, canoe, trailering, and boating experience |
 | Extensive backcountry camping and field work experience (temperate and subtropical environments) |
 | Extensive electrofishing (backpack-, barge-, and boat-), seining, and snorkeling experience |
