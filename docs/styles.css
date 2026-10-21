@@ -162,11 +162,13 @@ body.mw-home { padding-top: 0 !important; }
 }
 .mw-lede-sub {
   display: block;
-  margin-top: .8em;
-  font-size: .58em;
+  margin-top: 1.1rem;
+  max-width: 46ch;
+  font-family: "Source Serif 4", Georgia, serif;
+  font-size: clamp(1.05rem, 1.25vw, 1.3rem);
   font-weight: 400;
-  line-height: 1.3;
-  letter-spacing: -0.01em;
+  line-height: 1.55;
+  letter-spacing: 0;
   color: var(--mw-muted);
 }
 .mw-intro-side p { font-size: 1.05rem; max-width: 46ch; }
