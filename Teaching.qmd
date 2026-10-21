@@ -2,8 +2,4 @@
 title: "Teaching"
 ---
 
-### [**Teaching Philosophy and Experience**]{.smallcaps}
-
-![](images/teaching-quote.png)
-
-### [**Updates coming soon**]{.smallcaps}
+More coming soon :)

@@ -35,7 +35,7 @@ section-divs: false
 
 <!-- ============ INTRO ============ -->
 <section class="mw-intro">
-  <p class="mw-lede">How does global change alter the roles animals play in ecosystems? My research tackles this question across levels of biological organization, from individuals to ecosystems.</p>
+  <p class="mw-lede">What are the ecological causes and consequences of animal behaviors like movement and foraging? <span class="mw-lede-sub">My research asks how global change reshapes these behaviors, and what that means for populations, communities, and the flow of nutrients and energy through ecosystems.</span></p>
   <div class="mw-intro-side">
     <img src="images/web/fish-viewer-sm.jpg" alt="Mack White holding a clear viewer full of small stream fish" class="mw-portrait">
     <p>I work with Dr. Casey Pennock in the Aquatic Conservation &amp; Ecology Lab at Ohio State, mostly in rivers of the Colorado River and Ohio River basins. Before that I earned my Ph.D. at Florida International University working in Everglades National Park.</p>
@@ -59,7 +59,7 @@ section-divs: false
     <article class="mw-theme">
       <img src="images/web/fiu-snook-sm.jpg" alt="Mack holding a Common Snook on a boat" loading="lazy">
       <h3>Animal movement</h3>
-      <p>I use a variety of techniques to understand the ecological causes and consequences of animal movement, from Common Snook in the Gulf of Mexico to suckers in Appalachian streams.</p>
+      <p>From acoustic telemetry to drone surveys, I track when, where, and why animals move, from Common Snook in the Gulf of Mexico to suckers in Appalachian streams.</p>
     </article>
     <article class="mw-theme">
       <img src="images/web/ttu-sucker-smile-sm.jpg" alt="Mack standing in a stream holding a sucker" loading="lazy">
