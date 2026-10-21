@@ -2,16 +2,4 @@
 title: "Research"
 ---
 
-### [**Background**]{.smallcaps}
-
-I am a broadly trained aquatic ecologist whose research centers on understanding how the direct and indirect effects of global change (e.g., increasing temperatures, variable hydrology, shifting size distributions) shape animal populations and communities via physiological tradeoffs, and how these changes propagate to influence nutrient cycling and energy flow. I have been fortunate to conduct research in freshwater, estuarine, and marine ecosystems across temperate, subtropical, and tropical climates. While my research has typically focused on fish, my research skills and interests extend beyond a given study system (1). My research takes an integrative approach that uses a combination of field, experimental, and modeling approaches to provide a more holistic understanding of the natural world that informs conservation efforts, as well as ecological theory. Here, I use select publications to highlight my background in data science and synthesis, as well as my work that scales multiple, interconnected areas of research (i.e., movement, trophic, population, and community ecology) to better understand the ecological consequences of global change.
-
-### [**Updates coming soon**]{.smallcaps}
-
-[Research Funding]{.smallcaps}
-
-<p align="center">
-
-![Thanks to all of those who have supported me and my research!](images/funders-08072024-update.png){width="100%"}
-
-</p>
+More coming soon :)
