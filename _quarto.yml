@@ -17,10 +17,11 @@ website:
         href: index.qmd
       - text: "Research"
         href: Research.qmd
-      - text: "Teaching"
-        href: Teaching.qmd
-      - text: "The Confluence"
-        href: Blog.qmd
+      # Hidden for now; drafts live in _drafts/. To bring back, move the page back and uncomment:
+      # - text: "Teaching"
+      #   href: Teaching.qmd
+      # - text: "The Confluence"
+      #   href: Blog.qmd
       - text: "CV"
         href: CV.qmd
     right: 
