@@ -50,7 +50,7 @@ editor: visual
 
 |  |
 |----|
-| +Porter, Michaela, Michael S. Partlow, Casey A. Pennock, and **`*Mack White`**. **In review**. A collapsing native fish assemblage in a dryland river coincides with flow declines and abundant nonnative species. *Biological Conservation*. |
+| +Porter, Michaela, Michael S. Partlow, Casey A. Pennock, and **`*Mack White`**. **In review**. A collapsing native fish assemblage in a dryland river coincides with flow declines and abundant nonnative species. *Transactions of the American Fisheries Society*. |
 | **`*White, Mack`**, Chloe E. Lyles, Lindsey A. Bruckerhoff, Charles Yackulic, Phaedra Budy, and Casey A. Pennock. **In review**. Flow reductions shape aquatic insect communities in dryland river systems. *Ecohydrology*. |
 | James, W. Ryan, **`Mack White`**, Herbert Leavitt, Jonathan R. Rodemann, Gina A. Badlowski, and… (13 additional authors). **In review**. Seasonality in species trophic niche width and position alters community niche packing. *Ecology*. |
 

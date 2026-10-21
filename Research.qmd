@@ -13,7 +13,7 @@ section-divs: false
 <!-- ============ INTRO ============ -->
 <header class="rs-intro">
   <h1 class="rs-title">Research</h1>
-  <p class="rs-lede">From Appalachian creeks to coral reefs, I study how animals move, feed, and recycle nutrients, and how global change is reshaping all three. Explore where the work happens, then read what we found.</p>
+  <p class="rs-lede">From mountain streams to mangrove estuaries to coral reefs, I study how animals move, forage, and recycle nutrients, and how global change is reshaping all three. Explore where the work happens, then read what we found.</p>
 </header>
 
 <!-- ============ MAP ============ -->
@@ -50,15 +50,15 @@ section-divs: false
   <div class="rs-theme-text">
     <p class="rs-kicker" style="--c: var(--rs-move)">Animal movement</p>
     <h2>When, where, and why do animals move?</h2>
-    <p>Using acoustic telemetry, accelerometers, and long-term tracking, I follow individual predators through the coastal Everglades to learn how temperature, water levels, and body size shape what they do.</p>
+    <p>Using acoustic telemetry, accelerometers, and long-term tracking, I follow individual mesopredators through the coastal Everglades to learn how temperature, water levels, and body size shape what they do.</p>
     <ul class="rs-findings">
-      <li>Common Snook activity dropped sharply above 26&nbsp;°C, and fish switched between day and night activity at temperature extremes.
+      <li>Common Snook activity dropped sharply above 26&nbsp;°C, and fish switched between diurnal and nocturnal activity at temperature extremes.
         <a href="https://doi.org/10.1098/rsos.260735">White et al. 2026, <i>Royal Society Open Science</i></a></li>
-      <li>In wetter years, individual snook specialized more in where they spent their time, and specialists ate a narrower range of prey.
+      <li>In wetter years, snook showed greater individual specialization in space use, and, contrary to predictions, their trophic niche contracted.
         <a href="https://doi.org/10.1038/s41598-024-82158-4">Santos et al. 2025, <i>Scientific Reports</i></a></li>
-      <li>Most snook that left the Shark River did so in spawning season, and about half came back, showing one river is only part of their range.
+      <li>Most snook tagged in the Shark River emigrated, some traveling up to ~88&nbsp;km, indicating that snook use large portions of the seascape.
         <a href="https://doi.org/10.1093/mcfafs/vtaf050">Goldner et al. 2026, <i>Marine and Coastal Fisheries</i></a></li>
-      <li>Spotted Seatrout in Florida Bay choose habitat at two scales at once: the seagrass patch and the wider seascape.
+      <li>Spotted Seatrout habitat selection integrates information on patch- and seascape-scale characteristics in Florida Bay.
         <a href="https://doi.org/10.1038/s41598-025-27322-0">Rodemann et al. 2025, <i>Scientific Reports</i></a></li>
     </ul>
   </div>
@@ -72,15 +72,15 @@ section-divs: false
   <div class="rs-theme-text">
     <p class="rs-kicker" style="--c: var(--rs-nutr)">Nutrients and food webs</p>
     <h2>How do animals move nutrients and energy through ecosystems?</h2>
-    <p>Fish recycle nutrients through excretion and carry them between habitats in their bodies and eggs. I measure those fluxes, from a single spawning run to decades of data across ocean ecosystems.</p>
+    <p>Fish recycle elements within and across seemingly disparate ecosystems. I measure those nutrient and energy fluxes, from a single spawning run to decades of data across vastly different ocean ecosystems.</p>
     <ul class="rs-findings">
-      <li>About 67,000 migrating Smallmouth Buffalo delivered an estimated 730&nbsp;kg of nitrogen and 80&nbsp;kg of phosphorus to Citico Creek in a single spawning season.
+      <li>An estimated 67,000 migrating Smallmouth Buffalo delivered ~730&nbsp;kg of nitrogen and ~80&nbsp;kg of phosphorus to Citico Creek in a single spawning season.
         <a href="https://doi.org/10.1111/eff.12676">White et al. 2023, <i>Ecology of Freshwater Fish</i></a></li>
       <li>Migrating redhorses delivered a spring pulse of nitrogen, mostly through their eggs, when the stream was exporting little nitrogen of its own.
         <a href="https://doi.org/10.1111/eff.12758">Hudson et al. 2024, <i>Ecology of Freshwater Fish</i></a></li>
-      <li>Across ~25 years and ~1.5 million fishes in coral reefs, mangroves, seagrass beds, and kelp forests, richer fish communities supplied nitrogen more steadily.
+      <li>Species richness had strong, positive effects on the stability of consumer-mediated nutrient dynamics (CND) across ecosystems, though species asynchrony was the primary driver within ecosystems.
         <a href="https://doi.org/10.1073/pnas.2532469123">White et al. 2026, <i>PNAS</i></a></li>
-      <li>In warmer water, snook ate fewer fish and more often had empty stomachs, meaning they must eat more low-quality prey to meet their energy needs.
+      <li>In dry, warm years, snook faced a mismatch: energy demands rose while diet quality fell, showing that climate change can limit consumers from both sides of the equation.
         <a href="https://doi.org/10.1093/mcfafs/vtaf031">White et al. 2025, <i>Marine and Coastal Fisheries</i></a></li>
     </ul>
   </div>
@@ -94,12 +94,12 @@ section-divs: false
   <div class="rs-theme-text">
     <p class="rs-kicker" style="--c: var(--rs-river)">Rivers under global change</p>
     <h2>How do flow loss, warming, and invasions reshape river communities?</h2>
-    <p>Rivers in the Colorado River basin are drying as demand for water grows, and Ohio's rivers face invasive carp and changing land use. I study what these pressures mean for native fishes and aquatic insects.</p>
+    <p>Rivers in the Colorado River basin are drying as demand for water grows and temperatures warm, and Ohio rivers face invasive carp and changing land use. I study what these pressures mean for native fishes and aquatic insects.</p>
     <ul class="rs-findings">
       <li>Across seven Colorado River basin rivers, aquatic insect communities were less diverse where flows have declined the most.
         <span class="rs-status">White et al., in review, <i>Ecohydrology</i></span></li>
-      <li>In the White River, Utah, long considered a refuge, native fish densities declined from 2008 to 2025 while nonnative fishes stayed abundant.
-        <span class="rs-status">Porter et al., in review, <i>Biological Conservation</i></span></li>
+      <li>In a dryland river long considered a refuge, native fish densities collapsed from 2008 to 2025 while nonnatives remained abundant.
+        <span class="rs-status">Porter et al., in review, <i>Transactions of the American Fisheries Society</i></span></li>
     </ul>
   </div>
 </section>
@@ -112,7 +112,7 @@ section-divs: false
     <li><span class="rs-tag">In prep</span><span><strong>Where invasive carp stay.</strong> How Silver Carp residency varies across the Ohio River and its major tributaries.</span></li>
     <li><span class="rs-tag">In prep</span><span><strong>Land use versus flow.</strong> Whether fish, insect, and mussel life histories across Ohio respond more to land use or to hydrology.</span></li>
     <li><span class="rs-tag">In prep</span><span><strong>Movement and nutrient flux.</strong> How individual movement strategies shape where consumers deposit nutrients and energy.</span></li>
-    <li><span class="rs-tag">Presented</span><span><strong>Why Y?</strong> Evaluating genetic biocontrol for invasive Channel Catfish in the San Juan River basin.</span></li>
+    <li><span class="rs-tag">In prep</span><span><strong>Why Y?</strong> Evaluating genetic biocontrol for invasive Channel Catfish in the San Juan River basin.</span></li>
   </ol>
 </section>
 
@@ -130,7 +130,7 @@ section-divs: false
   </div>
   <div>
     <h2 class="rs-h3">Supported by</h2>
-    <p>National Center for Ecological Analysis &amp; Synthesis and the U.S. Long-Term Ecological Research Network, Columbus Zoo and Aquarium, the Everglades Foundation, Florida Forage Fish Coalition, NSF CREST Center for Aquatic Chemistry &amp; Environment, and Tennessee Technological University.</p>
+    <p>National Center for Ecological Analysis &amp; Synthesis and the U.S. Long-Term Ecological Research Network, Columbus Zoo and Aquarium, the Everglades Foundation, Florida Forage Fish Coalition, NSF CREST Center for Aquatic Chemistry &amp; Environment, The Ohio State University, Utah State University, and Tennessee Technological University.</p>
   </div>
 </section>
 
@@ -151,7 +151,7 @@ section-divs: false
     redhorse: ['Hudson et al. 2024, Ecology of Freshwater Fish', 'https://doi.org/10.1111/eff.12758'],
     pnas: ['White et al. 2026, PNAS', 'https://doi.org/10.1073/pnas.2532469123'],
     insects: ['White et al., in review, Ecohydrology', null],
-    whiteriver: ['Porter et al., in review, Biological Conservation', null],
+    whiteriver: ['Porter et al., in review, Transactions of the American Fisheries Society', null],
     carp: ['Holupka et al., in prep', null],
     lifehist: ['White et al., in prep', null]
   };
