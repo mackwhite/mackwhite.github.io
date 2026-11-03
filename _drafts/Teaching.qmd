@@ -27,7 +27,7 @@ section-divs: false
     <article class="tp-feature">
       <p class="tp-when">Instructor of record, The Ohio State University, Spring 2026</p>
       <h3>Aquatic Ecology <span>(EEOB 8896)</span></h3>
-      <p>I designed this graduate course around a real research question. Students paired life-history traits with Ohio EPA monitoring data to ask how land use and hydrology shape fish, mussel, and aquatic insect communities across Ohio from 1990 to 2025. We're now finalizing the manuscript together for <i>Ecology Letters</i>.</p>
+      <p>I designed this graduate course around a real research question. Students paired life-history traits with Ohio EPA monitoring data to ask how land use and hydrology shape fish, mussel, and aquatic insect communities across Ohio from 1990 to 2025. We're now finalizing the manuscript together for <i>Ecology</i>.</p>
       <p><a href="https://mackwhite.github.io/aquatic-ecology-osu/">Visit the course website</a>, with code, readings, and resources I built for the class.</p>
     </article>
     <div class="tp-list">
