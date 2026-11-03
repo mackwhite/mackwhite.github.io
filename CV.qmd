@@ -3,7 +3,7 @@ title: "CV"
 editor: visual
 ---
 
-##### *last updated October 2026 - email mackwhiteecology\@gmail.com for updated/detailed copy*
+##### *last updated November 2026 - email mackwhiteecology\@gmail.com for updated/detailed copy*
 
 |                       |                           |                             |
 |:---------------------:|:-------------------------:|:---------------------------:|
@@ -17,7 +17,7 @@ editor: visual
 | Tennessee Technological University - M.S., Biology | 05/2021 |
 | Marshall University - B.S., Environmental Science | 12/2017 |
 
-### Research/Work Experience
+### Research & Work Experience
 
 |  |  |
 |----|---:|
@@ -27,7 +27,7 @@ editor: visual
 | **Contractual Biologist** - Ohio River Valley Water Sanitation Commission, *Cincinnati, OH* | 2018 |
 | **Watershed Restoration Technician** - Trout Unlimited & United States Forest Service, *Bartow, WV* | 2017 |
 
-### Publications
+### Peer-Reviewed Publications {#publications}
 
 ###### *\*corresponding author, +mentored first author*
 
@@ -59,8 +59,14 @@ editor: visual
 |  |
 |----|
 | **`*White, Mack`**, Cody W. Eggenberger, W. Ryan James, Victoria S. Goldner, James W. Sturges, Cameron C. Atkinson, Rolando O. Santos, and Jennifer S. Rehage. **In prep**. Movement strategies dictate the spatial dynamics of consumer nutrient and energy fluxes. *Movement Ecology*. |
-| **`*White, Mack`**, Seth A. Drake, James M. Dowling, Alexa Howard, Abigail Duimering, Reagan Oller, Demetra Williams, David Drinko, Elle Krellwitz, Gabrielle Hernandez, and Casey A. Pennock. **In prep**. Life histories of freshwater taxa respond more strongly to land use than to hydrology in an anthropogenic landscape. *Ecology Letters*. |
+| **`*White, Mack`**, Seth A. Drake, James M. Dowling, Alexa Howard, Abigail Duimering, Reagan Oller, Demetra Williams, David Drinko, Elle Krellwitz, Gabrielle Hernandez, and Casey A. Pennock. **In prep**. Life histories of freshwater taxa respond more strongly to land use than to hydrology in an anthropogenic landscape. *Ecology*. |
 | +Holupka, Sophia, **`Mack White`**, Benjamin J. Marcek, and Casey A. Pennock. **In prep**. Invasive Silver Carp exhibit spatial and temporal variation in residency across the Ohio River and its major tributaries. *North American Journal of Fisheries Management*. |
+
+##### [Selected commentary/press]{.underline}
+
+|  |
+|----|
+| Subalusky, Amanda L. **2026**. Biodiversity supports coastal nutrient cycling with a stable source of fish excretion. *Proceedings of the National Academy of Sciences of the United States of America* 123(43). <https://doi.org/10.1073/pnas.2630042123> |
 
 ##### [Published datasets]{.underline}
 
@@ -98,7 +104,7 @@ editor: visual
 | Ford Foundation Predoctoral Fellowship: ***Not selected** for funding by the Ford Foundation* (**\$30,000**) | 2022 |
 | Conservation Research Grant: ***Not selected** for funding by the North American Native Fishes Association* (**\$1,000**) | 2020 |
 
-### Teaching Experience
+### Teaching & Mentoring Experience
 
 #### ***Instructor of Record***
 
@@ -113,6 +119,14 @@ editor: visual
 | **Principles of Ecology Lab (BIOL 3130):** Tennessee Technological University | Spring 2020-2021, Fall 2020 |
 | **Principles of Biology Lab (BIOL 1113):** Tennessee Technological University | Spring 2019, Fall 2019 |
 
+#### ***Guest Lecturer***
+
+|  |
+|----|
+| **Fish Ecology** - Tennessee Technological University, The Ohio State University |
+| **Ichthyology** - Tennessee Technological University |
+| **Methods in Stream Ecology** - Tennessee Technological University |
+
 #### ***Workshops Led***
 
 |  |  |
@@ -121,7 +135,13 @@ editor: visual
 | **Storytelling with Science** - Florida International University (Fall 2025), The Ohio State University (Spring 2026) | 2025-2026 |
 | **Incorporating animal movement into ecosystem models** - United States LTER All Scientist Meeting | Fall 2022 |
 
-#### ***Mentoring***
+#### ***Graduate Student Mentoring (as committee member)***
+
+|  |
+|----|
+| **Wyatt Tabor** - NRES, Marshall University (thesis committee) |
+
+#### ***Mentoring (other)***
 
 |  |  |
 |----|---:|
@@ -181,7 +201,7 @@ editor: visual
 
 |  |
 |----|
-| Annual Meeting Sponsorship Committee, *American Fisheries Society* (2026-Present) |
+| Edward Hayes Graduate Research Forum Abstract Judge, *The Ohio State University* (2026) |
 | Aquatic Technical Working Group Committee, *National Ecological Observatory Network* (2023-Present) |
 | Broadening Participation Committee, *Florida Coastal Everglades LTER Program* (2025) |
 | Justice, Equity, Diversity, and Inclusion Committee, *Florida Coastal Everglades LTER Program* (2022-2024) |
@@ -195,16 +215,13 @@ editor: visual
 
 ### Reviewer and Evaluation Service
 
-|  |
-|----|
-| Edward Hayes Graduate Research Forum Abstract Judge – The Ohio State University (2026) |
-
 ##### [Manuscript review for journals]{.underline}
 
 |  |
 |----|
 | Ecosphere |
 | Ecosystems |
+| Ecology and Evolution |
 | Estuaries and Coasts |
 | Marine Ecology Progress Series |
 | Journal of Experimental Marine Biology and Ecology |
