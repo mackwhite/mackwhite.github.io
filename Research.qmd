@@ -109,7 +109,7 @@ section-divs: false
   <h2 id="next-h" class="rs-h2">What's next</h2>
   <ol>
     <li><span class="rs-tag">Funded</span><span><strong>Paddlefish on the move.</strong> Tracking American Paddlefish through the Scioto and Ohio Rivers, with support from the Columbus Zoo and Aquarium.</span></li>
-    <li><span class="rs-tag">In prep</span><span><strong>Where invasive carp stay.</strong> How Silver Carp residency varies across the Ohio River and its major tributaries.</span></li>
+    <li><span class="rs-tag">In review</span><span><strong>Where invasive carp stay.</strong> How Silver Carp residency varies across the Ohio River and its major tributaries.</span></li>
     <li><span class="rs-tag">In prep</span><span><strong>Land use versus flow.</strong> Whether fish, insect, and mussel life histories across Ohio respond more to land use or to hydrology.</span></li>
     <li><span class="rs-tag">In prep</span><span><strong>Movement and nutrient flux.</strong> How individual movement strategies shape where consumers deposit nutrients and energy.</span></li>
     <li><span class="rs-tag">In prep</span><span><strong>Why Y?</strong> Evaluating genetic biocontrol for invasive Channel Catfish in the San Juan River basin.</span></li>
@@ -152,7 +152,7 @@ section-divs: false
     pnas: ['White et al. 2026, PNAS', 'https://doi.org/10.1073/pnas.2532469123'],
     insects: ['White et al., in review, Ecohydrology', null],
     whiteriver: ['Porter et al., in review, Transactions of the American Fisheries Society', null],
-    carp: ['Holupka et al., in prep', null],
+    carp: ['Holupka et al., in review, North American Journal of Fisheries Management', null],
     lifehist: ['White et al., in prep', null]
   };
   var INSECTS = 'Aquatic insect communities across a gradient of chronic flow reduction.';

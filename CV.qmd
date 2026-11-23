@@ -50,6 +50,7 @@ editor: visual
 
 |  |
 |----|
+| +Holupka, Sophia, **`Mack White`**, Benjamin J. Marcek, and Casey A. Pennock. **In review**. Invasive Silver Carp exhibit spatial and temporal variation in residency across the Ohio River and its major tributaries. *North American Journal of Fisheries Management*. |
 | +Porter, Michaela, Michael S. Partlow, Casey A. Pennock, and **`*Mack White`**. **In review**. A collapsing native fish assemblage in a dryland river coincides with flow declines and abundant nonnative species. *Transactions of the American Fisheries Society*. |
 | **`*White, Mack`**, Chloe E. Lyles, Lindsey A. Bruckerhoff, Charles Yackulic, Phaedra Budy, and Casey A. Pennock. **In review**. Flow reductions shape aquatic insect communities in dryland river systems. *Ecohydrology*. |
 | James, W. Ryan, **`Mack White`**, Herbert Leavitt, Jonathan R. Rodemann, Gina A. Badlowski, and… (13 additional authors). **In review**. Seasonality in species trophic niche width and position alters community niche packing. *Ecology*. |
@@ -60,7 +61,7 @@ editor: visual
 |----|
 | **`*White, Mack`**, Cody W. Eggenberger, W. Ryan James, Victoria S. Goldner, James W. Sturges, Cameron C. Atkinson, Rolando O. Santos, and Jennifer S. Rehage. **In prep**. Movement strategies dictate the spatial dynamics of consumer nutrient and energy fluxes. *Movement Ecology*. |
 | **`*White, Mack`**, Seth A. Drake, James M. Dowling, Alexa Howard, Abigail Duimering, Reagan Oller, Demetra Williams, David Drinko, Elle Krellwitz, Gabrielle Hernandez, and Casey A. Pennock. **In prep**. Life histories of freshwater taxa respond more strongly to land use than to hydrology in an anthropogenic landscape. *Ecology*. |
-| +Holupka, Sophia, **`Mack White`**, Benjamin J. Marcek, and Casey A. Pennock. **In prep**. Invasive Silver Carp exhibit spatial and temporal variation in residency across the Ohio River and its major tributaries. *North American Journal of Fisheries Management*. |
+| White, Daniel, Casey A. Pennock, Frances V. Davenport, **`Mack White`**, William W. Macfarlane, Dallin Baker, and Michael S. Partlow. **In prep**. Snow drought and water use drive record-low flows in a major Colorado River tributary. *Trends in Ecology and Evolution*. |
 
 ##### [Selected commentary/press]{.underline}
 
